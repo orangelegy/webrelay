@@ -3,11 +3,11 @@
   <title>青橙的博客</title>
   
   
-  <link href="https://gitee.com/cyanorange/cyanorange.git/atom.xml" rel="self"/>
+  <link href="https://github.com/orangelegy/orangelegy.github.io.git/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/cyanorange/cyanorange.git/"/>
+  <link href="https://github.com/orangelegy/orangelegy.github.io.git/"/>
   <updated>2022-08-13T13:10:15.670Z</updated>
-  <id>https://gitee.com/cyanorange/cyanorange.git/</id>
+  <id>https://github.com/orangelegy/orangelegy.github.io.git/</id>
   
   <author>
     <name>青橙</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Markdown基础语法教程</title>
-    <link href="https://gitee.com/cyanorange/cyanorange.git/2021/11/27/MarkDown%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E6%95%99%E7%A8%8B/"/>
-    <id>https://gitee.com/cyanorange/cyanorange.git/2021/11/27/MarkDown%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E6%95%99%E7%A8%8B/</id>
+    <link href="https://github.com/orangelegy/orangelegy.github.io.git/2021/11/27/MarkDown%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E6%95%99%E7%A8%8B/"/>
+    <id>https://github.com/orangelegy/orangelegy.github.io.git/2021/11/27/MarkDown%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95%E6%95%99%E7%A8%8B/</id>
     <published>2021-11-27T10:51:53.000Z</published>
     <updated>2022-08-13T13:10:15.670Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="教程" scheme="https://gitee.com/cyanorange/cyanorange.git/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://github.com/orangelegy/orangelegy.github.io.git/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="Markdown" scheme="https://gitee.com/cyanorange/cyanorange.git/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://github.com/orangelegy/orangelegy.github.io.git/tags/Markdown/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gitee.com/cyanorange/cyanorange.git/2021/10/04/hello-world/"/>
-    <id>https://gitee.com/cyanorange/cyanorange.git/2021/10/04/hello-world/</id>
+    <link href="https://github.com/orangelegy/orangelegy.github.io.git/2021/10/04/hello-world/"/>
+    <id>https://github.com/orangelegy/orangelegy.github.io.git/2021/10/04/hello-world/</id>
     <published>2021-10-03T16:00:00.000Z</published>
     <updated>2022-08-13T13:10:06.325Z</updated>
     
