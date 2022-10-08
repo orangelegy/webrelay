@@ -6,7 +6,7 @@
   <link href="https://cyanorange.tk/atom.xml" rel="self"/>
   
   <link href="https://cyanorange.tk/"/>
-  <updated>2022-10-07T13:50:27.346Z</updated>
+  <updated>2022-10-08T12:32:14.316Z</updated>
   <id>https://cyanorange.tk/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://cyanorange.tk/2022/10/08/test/"/>
+    <id>https://cyanorange.tk/2022/10/08/test/</id>
+    <published>2022-10-08T12:32:14.000Z</published>
+    <updated>2022-10-08T12:32:14.316Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Minecraft服务器搭建教程（Java版）</title>
