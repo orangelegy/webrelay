@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>青橙网站推荐</title>
+  <title>青橙</title>
   
-  <subtitle>青橙网站推荐</subtitle>
+  <subtitle>青橙</subtitle>
   <link href="https://cyanorange.tk/atom.xml" rel="self"/>
   
   <link href="https://cyanorange.tk/"/>
