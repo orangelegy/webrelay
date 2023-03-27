@@ -50,12 +50,12 @@
     <link href="https://cyanorange.tk/2023/03/24/Maze-Generator/"/>
     <id>https://cyanorange.tk/2023/03/24/Maze-Generator/</id>
     <published>2023-03-24T08:08:05.000Z</published>
-    <updated>2023-03-25T10:25:59.893Z</updated>
+    <updated>2023-03-27T03:37:57.046Z</updated>
     
-    <content type="html"><![CDATA[<p>当你在玩沙盒游戏（如Minecraft）或家园建造类游戏时，想建个迷宫坑一坑小伙伴但是想半天还是不知道怎么建时，不妨试一试这个网站。Maze Generator用于生成迷宫图，用户可自定义各种参数生成不同形状、大小的迷宫，此网站还支持导出成不同尺寸的PDF或图片。</p><p><img src="/img/maze-generator/1.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://www.mazegenerator.net/">https://www.mazegenerator.net/</a></p></blockquote><h3 id="使用方法"><a class="markdownIt-Anchor" href="#使用方法"></a> 使用方法：</h3><ol><li>输入各个参数<ul><li><strong>Shape</strong>（形状）: 可选择矩形、圆形、三角形、六边形。</li><li><strong>style</strong>（风格）：可选择方形、六角形、三角形单元格。</li><li><strong>weight</strong>（宽度）</li><li><strong>height</strong>（高度）</li><li><strong>Inner width</strong>（内宽）</li><li><strong>Inner height</strong>（内高）</li><li><strong>Starts at</strong>（开始于）:可选择顶部、底部或内部。</li><li><strong>Advanced</strong>（高级选项）</li></ul></li><li>点击 “<strong>Genenrate new</strong>” 即可生成一个迷宫图，如果觉得不合适还可以再次点击再生成一个新的迷宫。</li><li>选择最下方 “<strong>Solution</strong>” 会显示出迷宫的正确路线，选择 “<strong>As lines</strong>” 则会变成没有墙，只有路的迷宫，适合用来制作浮空类迷宫或吊桥类迷宫，在右边的菜单中可以选择导出成PDF文件或图片，生成了迷宫以后记得保存哦，点击 “<strong>Download</strong>” 即可下载下来啦。</li></ol><h3 id="示例"><a class="markdownIt-Anchor" href="#示例"></a> 示例：</h3><p><img src="/img/maze-generator/2.jpg" alt="" /></p>]]></content>
+    <content type="html"><![CDATA[<p>这个网站提供了多种不同类型的迷宫生成器，包括基于回溯算法和随机普里姆算法的迷宫生成器。用户可以选择不同的设置和算法，以生成符合自己需求的迷宫。网站的界面简洁明了，易于操作。同时，该网站还提供了对生成迷宫的一些控制，例如迷宫的大小、墙壁的厚度和颜色等等。总体来说，<a href="http://MazeGenerator.net">MazeGenerator.net</a> 是一个优秀的迷宫生成器网站。</p><p><img src="/img/maze-generator/1.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://www.mazegenerator.net/">https://www.mazegenerator.net/</a></p></blockquote><h3 id="使用方法"><a class="markdownIt-Anchor" href="#使用方法"></a> 使用方法：</h3><ol><li><p>打开 <a href="http://mazegenerator.net">mazegenerator.net</a> 网站，并选择您需要的迷宫类型，例如标准迷宫、圆形迷宫、三角形迷宫等等。可以在网页上方的下拉菜单中进行选择。</p></li><li><p>在迷宫设置区域中，您可以自定义迷宫的大小、难度等级、路径宽度、墙壁厚度等等。可以通过滑块或输入框进行设置。</p></li><li><p>在迷宫风格区域中，您可以选择迷宫的颜色和外观，例如背景颜色、墙壁颜色、路径颜色等等。</p></li><li><p>在网页的右侧区域，您可以预览生成的迷宫，并进行微调和修改。</p></li><li><p>点击 “Generate” 按钮，即可生成您所需要的迷宫。如果您不满意生成的迷宫，可以点击 “Generate New” 按钮进行重新生成。</p></li><li><p>生成的迷宫可以通过下载或复制链接的方式进行保存和分享。</p></li></ol><h3 id="示例"><a class="markdownIt-Anchor" href="#示例"></a> 示例：</h3><p><img src="/img/maze-generator/2.jpg" alt="" /></p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;当你在玩沙盒游戏（如Minecraft）或家园建造类游戏时，想建个迷宫坑一坑小伙伴但是想半天还是不知道怎么建时，不妨试一试这个网站。Maze Generator用于生成迷宫图，用户可自定义各种参数生成不同形状、大小的迷宫，此网站还支持导出成不同尺寸的PDF或图片。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;这个网站提供了多种不同类型的迷宫生成器，包括基于回溯算法和随机普里姆算法的迷宫生成器。用户可以选择不同的设置和算法，以生成符合自己需求的迷宫。网站的界面简洁明了，易于操作。同时，该网站还提供了对生成迷宫的一些控制，例如迷宫的大小、墙壁的厚度和颜色等等。总体来说，&lt;a href=&quot;http://MazeGenerator.net&quot;&gt;MazeGenerator.net&lt;/a&gt; 是一个优秀的迷宫生成器网站。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/img/maze-generator/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
     
     
