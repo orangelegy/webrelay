@@ -6,7 +6,7 @@
   <link href="https://cyanorange.tk/atom.xml" rel="self"/>
   
   <link href="https://cyanorange.tk/"/>
-  <updated>2023-03-25T10:10:58.716Z</updated>
+  <updated>2023-03-27T03:51:08.383Z</updated>
   <id>https://cyanorange.tk/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Minesweeper - 扫雷游戏网页版</title>
+    <link href="https://cyanorange.tk/2023/03/27/minesweeper/"/>
+    <id>https://cyanorange.tk/2023/03/27/minesweeper/</id>
+    <published>2023-03-27T03:45:30.000Z</published>
+    <updated>2023-03-27T03:51:08.383Z</updated>
+    
+    <content type="html"><![CDATA[<p>minesweeper是一个提供网页版扫雷游戏的网站，拥有多种游戏模式和排行榜功能，但可能存在一些广告干扰。如果您是扫雷游戏的爱好者，可以尝试在该网站上进行游戏。</p><p><img src="/img/minesweeper/1.png" alt="" /></p><h3 id="评价"><a class="markdownIt-Anchor" href="#评价"></a> 评价</h3><ol><li><p>界面简洁清晰：该网站的界面简洁清晰，游戏操作也相对容易上手，适合新手和有一定经验的玩家。</p></li><li><p>多种游戏模式：该网站提供多种游戏模式，例如初级、中级、高级、自定义等等，玩家可以根据自己的技能和喜好选择相应的难度。</p></li><li><p>支持排行榜：该网站支持游戏排行榜，玩家可以与其他玩家比较成绩和竞争排名，增加游戏乐趣。</p></li><li><p>广告较多：该网站在游戏过程中会不时出现一些广告，可能会影响游戏体验。建议使用浏览器广告屏蔽插件。</p></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;minesweeper是一个提供网页版扫雷游戏的网站，拥有多种游戏模式和排行榜功能，但可能存在一些广告干扰。如果您是扫雷游戏的爱好者，可以尝试在该网站上进行游戏。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/minesweeper/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="在线游戏" scheme="https://cyanorange.tk/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="扫雷" scheme="https://cyanorange.tk/tags/%E6%89%AB%E9%9B%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>JustLive - 直播平台整合</title>
