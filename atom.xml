@@ -3,11 +3,11 @@
   <title>青橙 - 发现全球有趣网站</title>
   
   <subtitle>青橙</subtitle>
-  <link href="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/atom.xml" rel="self"/>
+  <link href="https://cyanorange.tk/atom.xml" rel="self"/>
   
-  <link href="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/"/>
+  <link href="https://cyanorange.tk/"/>
   <updated>2023-03-27T07:23:31.631Z</updated>
-  <id>https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/</id>
+  <id>https://cyanorange.tk/</id>
   
   <author>
     <name>青橙</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>ZType - 飞行射击打字游戏</title>
-    <link href="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/2023/03/27/ztype/"/>
-    <id>https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/2023/03/27/ztype/</id>
+    <link href="https://cyanorange.tk/2023/03/27/ztype/"/>
+    <id>https://cyanorange.tk/2023/03/27/ztype/</id>
     <published>2023-03-27T04:14:28.000Z</published>
     <updated>2023-03-27T07:23:31.631Z</updated>
     
@@ -31,17 +31,17 @@
     
     
     
-    <category term="在线游戏" scheme="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
+    <category term="在线游戏" scheme="https://cyanorange.tk/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="打字" scheme="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/tags/%E6%89%93%E5%AD%97/"/>
+    <category term="打字" scheme="https://cyanorange.tk/tags/%E6%89%93%E5%AD%97/"/>
     
   </entry>
   
   <entry>
     <title>Minesweeper - 扫雷游戏网页版</title>
-    <link href="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/2023/03/27/minesweeper/"/>
-    <id>https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/2023/03/27/minesweeper/</id>
+    <link href="https://cyanorange.tk/2023/03/27/minesweeper/"/>
+    <id>https://cyanorange.tk/2023/03/27/minesweeper/</id>
     <published>2023-03-27T03:45:30.000Z</published>
     <updated>2023-03-27T03:52:26.023Z</updated>
     
@@ -53,17 +53,17 @@
     
     
     
-    <category term="在线游戏" scheme="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
+    <category term="在线游戏" scheme="https://cyanorange.tk/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="扫雷" scheme="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/tags/%E6%89%AB%E9%9B%B7/"/>
+    <category term="扫雷" scheme="https://cyanorange.tk/tags/%E6%89%AB%E9%9B%B7/"/>
     
   </entry>
   
   <entry>
     <title>JustLive - 直播平台整合</title>
-    <link href="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/2023/03/24/justlive/"/>
-    <id>https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/2023/03/24/justlive/</id>
+    <link href="https://cyanorange.tk/2023/03/24/justlive/"/>
+    <id>https://cyanorange.tk/2023/03/24/justlive/</id>
     <published>2023-03-24T09:45:24.000Z</published>
     <updated>2023-03-27T07:21:05.772Z</updated>
     
@@ -76,23 +76,23 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="直播" scheme="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/tags/%E7%9B%B4%E6%92%AD/"/>
+    <category term="直播" scheme="https://cyanorange.tk/tags/%E7%9B%B4%E6%92%AD/"/>
     
-    <category term="哔哩哔哩" scheme="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9/"/>
+    <category term="哔哩哔哩" scheme="https://cyanorange.tk/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9/"/>
     
-    <category term="斗鱼" scheme="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/tags/%E6%96%97%E9%B1%BC/"/>
+    <category term="斗鱼" scheme="https://cyanorange.tk/tags/%E6%96%97%E9%B1%BC/"/>
     
-    <category term="虎牙" scheme="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/tags/%E8%99%8E%E7%89%99/"/>
+    <category term="虎牙" scheme="https://cyanorange.tk/tags/%E8%99%8E%E7%89%99/"/>
     
   </entry>
   
   <entry>
     <title>Maze Generator - 迷宫生成器</title>
-    <link href="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/2023/03/24/Maze-Generator/"/>
-    <id>https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/2023/03/24/Maze-Generator/</id>
+    <link href="https://cyanorange.tk/2023/03/24/Maze-Generator/"/>
+    <id>https://cyanorange.tk/2023/03/24/Maze-Generator/</id>
     <published>2023-03-24T08:08:05.000Z</published>
     <updated>2023-03-27T03:40:41.953Z</updated>
     
@@ -104,12 +104,12 @@
     
     
     
-    <category term="在线游戏" scheme="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
+    <category term="在线游戏" scheme="https://cyanorange.tk/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="益智" scheme="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/tags/%E7%9B%8A%E6%99%BA/"/>
+    <category term="益智" scheme="https://cyanorange.tk/tags/%E7%9B%8A%E6%99%BA/"/>
     
-    <category term="迷宫" scheme="https://cyanorange.tk/,https://cyanorange.top/,https://orangelegy.github.io/,https://cyanorange.eu.org/tags/%E8%BF%B7%E5%AE%AB/"/>
+    <category term="迷宫" scheme="https://cyanorange.tk/tags/%E8%BF%B7%E5%AE%AB/"/>
     
   </entry>
   
