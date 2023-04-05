@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>青橙 - 优秀网站收录</title>
+  <title>青橙 - 优质网站收录</title>
   
   <subtitle>青橙</subtitle>
   <link href="https://cyanorange.tk/atom.xml" rel="self"/>
   
   <link href="https://cyanorange.tk/"/>
-  <updated>2023-04-05T15:11:51.125Z</updated>
+  <updated>2023-04-05T15:17:52.480Z</updated>
   <id>https://cyanorange.tk/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>wallhaven - 壁纸天堂</title>
+    <link href="https://cyanorange.tk/2023/04/05/wallhaven/"/>
+    <id>https://cyanorange.tk/2023/04/05/wallhaven/</id>
+    <published>2023-04-05T15:15:37.000Z</published>
+    <updated>2023-04-05T15:17:52.480Z</updated>
+    
+    <content type="html"><![CDATA[<p>Wallhaven 是一个高质量的壁纸分享社区，用户可以在该网站上浏览、搜索和下载高清壁纸。该网站的壁纸种类非常丰富，涵盖了各种风格和主题，例如抽象、动物、自然、科技、游戏等等，同时还有丰富的标签和筛选功能，方便用户快速找到自己喜欢的壁纸。Wallhaven的壁纸质量非常高，大部分都是高清的，同时用户也可以上传自己的壁纸作品。该网站还提供了API接口，允许开发者将Wallhaven的壁纸集成到自己的应用程序中。总之，Wallhaven是一个非常优秀的壁纸分享社区，受到了广大用户的喜爱。</p><p><img src="/img/wallhaven/image-20230405231708424.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://wallhaven.cc/">https://wallhaven.cc/</a></p></blockquote>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Wallhaven 是一个高质量的壁纸分享社区，用户可以在该网站上浏览、搜索和下载高清壁纸。该网站的壁纸种类非常丰富，涵盖了各种风格和主题，例如抽象、动物、自然、科技、游戏等等，同时还有丰富的标签和筛选功能，方便用户快速找到自己喜欢的壁纸。Wallhaven的壁纸质量非常高，大部分都是高清的，同时用户也可以上传自己的壁纸作品。该网站还提供了API接口，允许开发者将Wallhaven的壁纸集成到自己的应用程序中。总之，Wallhaven是一个非常优秀的壁纸分享社区，受到了广大用户的喜爱。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/wallhaven/image-20230405231708424.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="壁纸" scheme="https://cyanorange.tk/tags/%E5%A3%81%E7%BA%B8/"/>
+    
+  </entry>
   
   <entry>
     <title>ChatGPT-zh - 中文版ChatGPT</title>
@@ -120,12 +142,12 @@
     <link href="https://cyanorange.tk/2023/03/24/Maze-Generator/"/>
     <id>https://cyanorange.tk/2023/03/24/Maze-Generator/</id>
     <published>2023-03-24T08:08:05.000Z</published>
-    <updated>2023-03-31T04:52:15.654Z</updated>
+    <updated>2023-04-05T15:19:04.775Z</updated>
     
-    <content type="html"><![CDATA[<p>这个网站提供了多种不同类型的迷宫生成器，包括基于回溯算法和随机普里姆算法的迷宫生成器。用户可以选择不同的设置和算法，以生成符合自己需求的迷宫。网站的界面简洁明了，易于操作。同时，该网站还提供了对生成迷宫的一些控制，例如迷宫的大小、墙壁的厚度和颜色等等。总体来说，<a href="http://MazeGenerator.net">MazeGenerator.net</a> 是一个优秀的迷宫生成器网站。</p><p><img src="/img/maze-generator/1.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://www.mazegenerator.net/">https://www.mazegenerator.net/</a></p></blockquote><h3 id="使用方法"><a class="markdownIt-Anchor" href="#使用方法"></a> 使用方法：</h3><ol><li><p>打开 <a href="http://mazegenerator.net">mazegenerator.net</a> 网站，并选择您需要的迷宫类型，例如标准迷宫、圆形迷宫、三角形迷宫等等。可以在网页上方的下拉菜单中进行选择。</p></li><li><p>在迷宫设置区域中，您可以自定义迷宫的大小、难度等级、路径宽度、墙壁厚度等等。可以通过滑块或输入框进行设置。</p></li><li><p>在迷宫风格区域中，您可以选择迷宫的颜色和外观，例如背景颜色、墙壁颜色、路径颜色等等。</p></li><li><p>在网页的右侧区域，您可以预览生成的迷宫，并进行微调和修改。</p></li><li><p>点击 “Generate” 按钮，即可生成您所需要的迷宫。如果您不满意生成的迷宫，可以点击 “Generate New” 按钮进行重新生成。</p></li><li><p>生成的迷宫可以通过下载或复制链接的方式进行保存和分享。</p></li></ol><p>以上是使用 <a href="http://mazegenerator.net">mazegenerator.net</a> 网站生成迷宫的简单步骤，希望对您有所帮助。</p><h3 id="示例"><a class="markdownIt-Anchor" href="#示例"></a> 示例：</h3><p><img src="/img/maze-generator/2.jpg" alt="" /></p>]]></content>
+    <content type="html"><![CDATA[<p>这个网站提供了多种不同类型的迷宫生成器，包括基于回溯算法和随机普里姆算法的迷宫生成器。用户可以选择不同的设置和算法，以生成符合自己需求的迷宫。网站的界面简洁明了，易于操作。同时，该网站还提供了对生成迷宫的一些控制，例如迷宫的大小、墙壁的厚度和颜色等等。总体来说，MazeGenerator 是一个优秀的迷宫生成器网站。</p><p><img src="/img/maze-generator/1.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://www.mazegenerator.net/">https://www.mazegenerator.net/</a></p></blockquote><h3 id="使用方法"><a class="markdownIt-Anchor" href="#使用方法"></a> 使用方法：</h3><ol><li><p>打开 <a href="http://mazegenerator.net">mazegenerator.net</a> 网站，并选择您需要的迷宫类型，例如标准迷宫、圆形迷宫、三角形迷宫等等。可以在网页上方的下拉菜单中进行选择。</p></li><li><p>在迷宫设置区域中，您可以自定义迷宫的大小、难度等级、路径宽度、墙壁厚度等等。可以通过滑块或输入框进行设置。</p></li><li><p>在迷宫风格区域中，您可以选择迷宫的颜色和外观，例如背景颜色、墙壁颜色、路径颜色等等。</p></li><li><p>在网页的右侧区域，您可以预览生成的迷宫，并进行微调和修改。</p></li><li><p>点击 “Generate” 按钮，即可生成您所需要的迷宫。如果您不满意生成的迷宫，可以点击 “Generate New” 按钮进行重新生成。</p></li><li><p>生成的迷宫可以通过下载或复制链接的方式进行保存和分享。</p></li></ol><p>以上是使用 <a href="http://mazegenerator.net">mazegenerator.net</a> 网站生成迷宫的简单步骤，希望对您有所帮助。</p><h3 id="示例"><a class="markdownIt-Anchor" href="#示例"></a> 示例：</h3><p><img src="/img/maze-generator/2.jpg" alt="" /></p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;这个网站提供了多种不同类型的迷宫生成器，包括基于回溯算法和随机普里姆算法的迷宫生成器。用户可以选择不同的设置和算法，以生成符合自己需求的迷宫。网站的界面简洁明了，易于操作。同时，该网站还提供了对生成迷宫的一些控制，例如迷宫的大小、墙壁的厚度和颜色等等。总体来说，&lt;a href=&quot;http://MazeGenerator.net&quot;&gt;MazeGenerator.net&lt;/a&gt; 是一个优秀的迷宫生成器网站。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;这个网站提供了多种不同类型的迷宫生成器，包括基于回溯算法和随机普里姆算法的迷宫生成器。用户可以选择不同的设置和算法，以生成符合自己需求的迷宫。网站的界面简洁明了，易于操作。同时，该网站还提供了对生成迷宫的一些控制，例如迷宫的大小、墙壁的厚度和颜色等等。总体来说，MazeGenerator 是一个优秀的迷宫生成器网站。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/img/maze-generator/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
     
     
