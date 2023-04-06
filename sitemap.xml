@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cyanorange.tk/2023/04/05/chatgptcn/</loc>
+    
+    <lastmod>2023-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cyanorange.tk/2023/04/06/rufus/</loc>
     
     <lastmod>2023-04-06</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://cyanorange.tk/2023/04/05/typingclub/</loc>
-    
-    <lastmod>2023-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cyanorange.tk/2023/04/05/chatgptcn/</loc>
     
     <lastmod>2023-04-06</lastmod>
     
@@ -178,7 +178,14 @@
   </url>
   
   <url>
-    <loc>https://cyanorange.tk/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://cyanorange.tk/tags/AI/</loc>
+    <lastmod>2023-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cyanorange.tk/tags/ChatGPT/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -199,6 +206,13 @@
   </url>
   
   <url>
+    <loc>https://cyanorange.tk/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2023-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://cyanorange.tk/tags/%E8%84%9A%E6%9C%AC/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -207,48 +221,6 @@
   
   <url>
     <loc>https://cyanorange.tk/tags/%E7%BD%91%E9%A1%B5/</loc>
-    <lastmod>2023-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cyanorange.tk/tags/AI/</loc>
-    <lastmod>2023-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cyanorange.tk/tags/ChatGPT/</loc>
-    <lastmod>2023-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cyanorange.tk/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2023-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cyanorange.tk/tags/OpenAI/</loc>
-    <lastmod>2023-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cyanorange.tk/tags/%E6%97%A5%E6%9C%AC/</loc>
-    <lastmod>2023-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cyanorange.tk/tags/%E9%BA%BB%E5%B0%86/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -283,6 +255,13 @@
   </url>
   
   <url>
+    <loc>https://cyanorange.tk/tags/%E6%89%AB%E9%9B%B7/</loc>
+    <lastmod>2023-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://cyanorange.tk/tags/%E8%A3%85%E6%9C%BA/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -297,14 +276,14 @@
   </url>
   
   <url>
-    <loc>https://cyanorange.tk/tags/%E6%89%AB%E9%9B%B7/</loc>
+    <loc>https://cyanorange.tk/tags/%E6%97%A5%E6%9C%AC/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://cyanorange.tk/tags/%E5%A3%81%E7%BA%B8/</loc>
+    <loc>https://cyanorange.tk/tags/%E9%BA%BB%E5%B0%86/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -354,6 +333,13 @@
   
   <url>
     <loc>https://cyanorange.tk/tags/%E6%89%93%E5%AD%97/</loc>
+    <lastmod>2023-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cyanorange.tk/tags/%E5%A3%81%E7%BA%B8/</loc>
     <lastmod>2023-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
