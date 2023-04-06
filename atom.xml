@@ -6,7 +6,7 @@
   <link href="https://cyanorange.tk/atom.xml" rel="self"/>
   
   <link href="https://cyanorange.tk/"/>
-  <updated>2023-04-06T07:00:05.070Z</updated>
+  <updated>2023-04-06T11:30:37.870Z</updated>
   <id>https://cyanorange.tk/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://cyanorange.tk/2023/04/06/rufus/"/>
     <id>https://cyanorange.tk/2023/04/06/rufus/</id>
     <published>2023-04-06T06:45:27.000Z</published>
-    <updated>2023-04-06T07:00:05.070Z</updated>
+    <updated>2023-04-06T11:30:37.870Z</updated>
     
     <content type="html"><![CDATA[<p><strong>Rufus</strong> 是一个提供免费、开源的Windows USB启动盘制作工具的网站。用户可以在该网站上下载Rufus软件，使用该软件将ISO镜像文件写入USB启动盘，从而将Windows操作系统安装到计算机中。</p><p><img src="/img/rufus/image-20230406145958765.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://rufus.ie/">https://rufus.ie/</a></p></blockquote><p>Rufus软件具有简单易用、功能强大等特点，支持多种文件系统和启动模式，可以帮助用户快速制作Windows USB启动盘。该软件还支持UEFI和BIOS两种启动模式，方便用户选择适合自己的启动方式。</p><p>此外，Rufus.ie还提供了一些关于Windows USB启动盘制作的教程和常见问题解答，方便用户了解和使用该工具。该网站还提供了一些其他的工具，如MemTest86、UNetbootin等，方便用户进行系统维护和修复。</p><p>总之，Rufus.ie是一个非常实用和方便的Windows USB启动盘制作工具，可以帮助用户快速安装Windows操作系统和进行系统维护。</p>]]></content>
     
@@ -31,7 +31,7 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="良心工具" scheme="https://cyanorange.tk/categories/%E8%89%AF%E5%BF%83%E5%B7%A5%E5%85%B7/"/>
     
     
     <category term="装机" scheme="https://cyanorange.tk/tags/%E8%A3%85%E6%9C%BA/"/>
@@ -169,7 +169,7 @@
     <link href="https://cyanorange.tk/2023/04/05/typingclub/"/>
     <id>https://cyanorange.tk/2023/04/05/typingclub/</id>
     <published>2023-04-05T15:55:36.000Z</published>
-    <updated>2023-04-06T06:21:32.718Z</updated>
+    <updated>2023-04-06T11:30:22.170Z</updated>
     
     <content type="html"><![CDATA[<p><strong>TypingClub</strong> 是一个在线打字练习网站，旨在帮助用户提高打字速度和准确性。该网站提供了各种打字练习课程，涵盖了字母、数字、符号、单词、句子等多种练习模式，并且可以根据用户的打字速度和准确性自动调整难度。此外，TypingClub还提供了一些有用的功能和工具，例如打字记录、排行榜、成就奖励等等，方便用户监控自己的打字进度和成就。该网站的界面简洁清晰，易于使用，适合各种年龄段和打字水平的用户。总之，TypingClub是一个非常实用的在线打字练习网站，对于需要提高打字能力的用户来说非常有帮助。</p><p><img src="/img/typingclub/image-20230406000517577.png" alt="" /></p><span id="more"></span><p><img src="/img/typingclub/image-20230406000630246.png" alt="" /></p><blockquote><p>传送门：<a href="https://www.typingclub.com/">https://www.typingclub.com/</a></p><p>中文版：<a href="https://www.typingclub.com/da-zi">https://www.typingclub.com/da-zi</a></p></blockquote><ul><li>更多</li></ul><p><img src="/img/typingclub/image-20230406000257223.png" alt="" /></p><p><img src="/img/typingclub/image-20230406000309868.png" alt="" /></p><p><img src="/img/typingclub/image-20230406000318619.png" alt="" /></p><p><img src="/img/typingclub/image-20230406000327832.png" alt="" /></p>]]></content>
     
@@ -179,7 +179,7 @@
     
     
     
-    <category term="在线工具" scheme="https://cyanorange.tk/categories/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/"/>
+    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
     <category term="打字" scheme="https://cyanorange.tk/tags/%E6%89%93%E5%AD%97/"/>
@@ -281,7 +281,7 @@
     <link href="https://cyanorange.tk/2023/04/05/chatgptcn/"/>
     <id>https://cyanorange.tk/2023/04/05/chatgptcn/</id>
     <published>2023-04-05T14:47:43.000Z</published>
-    <updated>2023-04-06T06:21:01.911Z</updated>
+    <updated>2023-04-06T11:30:06.616Z</updated>
     
     <content type="html"><![CDATA[<p><strong>chatgpt-zh</strong> 是一个基于 GPT 技术的中文聊天机器人网站，用户可以在该网站上与聊天机器人进行对话。该网站的界面简洁，机器人的回答也比较流畅自然。同时，该网站还提供了一些高级选项，如设置对话主题、选择机器人模型等功能，用户可以根据自己的需要进行设置。总体上，chatgpt-zh这个网站是一个不错的中文聊天机器人网站，适合对话和交流。</p><p><img src="/img/chatgptcn/image-20230405225646983.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://www.chatgpt-zh.cn/">https://www.chatgpt-zh.cn/</a></p></blockquote><p>本网站描述由chatgpt-zh.cn生成，该网站目前仅支持<strong>gpt-3.5</strong>，期待后续升级。普通人想要使用的话，需要有OpenAI账号然后获取API Key，具体操作请自行查找。</p>]]></content>
     
@@ -291,7 +291,7 @@
     
     
     
-    <category term="在线工具" scheme="https://cyanorange.tk/categories/%E5%9C%A8%E7%BA%BF%E5%B7%A5%E5%85%B7/"/>
+    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
     <category term="AI" scheme="https://cyanorange.tk/tags/AI/"/>
