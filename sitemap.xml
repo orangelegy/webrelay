@@ -228,13 +228,6 @@
   </url>
   
   <url>
-    <loc>https://cyanorange.tk/tags/%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2023-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://cyanorange.tk/tags/%E4%BC%A0%E8%BE%93/</loc>
     <lastmod>2023-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -249,20 +242,6 @@
   </url>
   
   <url>
-    <loc>https://cyanorange.tk/tags/%E8%84%9A%E6%9C%AC/</loc>
-    <lastmod>2023-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cyanorange.tk/tags/%E7%BD%91%E9%A1%B5/</loc>
-    <lastmod>2023-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://cyanorange.tk/tags/AI/</loc>
     <lastmod>2023-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -271,6 +250,27 @@
   
   <url>
     <loc>https://cyanorange.tk/tags/ChatGPT/</loc>
+    <lastmod>2023-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cyanorange.tk/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2023-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cyanorange.tk/tags/%E8%84%9A%E6%9C%AC/</loc>
+    <lastmod>2023-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cyanorange.tk/tags/%E7%BD%91%E9%A1%B5/</loc>
     <lastmod>2023-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -305,13 +305,6 @@
   </url>
   
   <url>
-    <loc>https://cyanorange.tk/tags/%E6%89%AB%E9%9B%B7/</loc>
-    <lastmod>2023-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://cyanorange.tk/tags/%E6%97%A5%E6%9C%AC/</loc>
     <lastmod>2023-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -320,6 +313,13 @@
   
   <url>
     <loc>https://cyanorange.tk/tags/%E9%BA%BB%E5%B0%86/</loc>
+    <lastmod>2023-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cyanorange.tk/tags/%E6%89%AB%E9%9B%B7/</loc>
     <lastmod>2023-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
