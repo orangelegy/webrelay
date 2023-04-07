@@ -6,7 +6,7 @@
   <link href="https://cyanorange.tk/atom.xml" rel="self"/>
   
   <link href="https://cyanorange.tk/"/>
-  <updated>2023-04-06T11:30:37.870Z</updated>
+  <updated>2023-04-07T04:02:41.240Z</updated>
   <id>https://cyanorange.tk/</id>
   
   <author>
@@ -17,11 +17,59 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>sms-activate - 国外手机验证</title>
+    <link href="https://cyanorange.tk/2023/04/07/sms-activate/"/>
+    <id>https://cyanorange.tk/2023/04/07/sms-activate/</id>
+    <published>2023-04-07T03:58:13.000Z</published>
+    <updated>2023-04-07T04:02:41.240Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>sms-activate</strong> 是一个提供短信验证码接收服务的网站，用户可以在该网站上购买虚拟手机号或租用真实手机号，用于在各类应用或网站上接收验证码短信。该网站支持的网站或应用种类较广泛，包括但不限于社交媒体、电子商务、在线服务、金融业等。</p><p><img src="/img/sms-activate/image-20230407120235594.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://sms-activate.org/">https://sms-activate.org/</a></p></blockquote><p>使用sms-activate，用户可以根据需要购买不同种类的虚拟手机号或真实手机号的租用服务，选择的套餐费用不同，使用不同手机号的收费也会有所区别。使用sms-activate接收到的短信验证码数量不限，但需要注意的是，该网站提供的虚拟手机号码可能会被应用或网站屏蔽，导致接收不到验证码。此外，使用sms-activate也需要注意不要将其用于非法活动，以免违法风险。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;sms-activate&lt;/strong&gt; 是一个提供短信验证码接收服务的网站，用户可以在该网站上购买虚拟手机号或租用真实手机号，用于在各类应用或网站上接收验证码短信。该网站支持的网站或应用种类较广泛，包括但不限于社交媒体、电子商务、在线服务、金融业等。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/sms-activate/image-20230407120235594.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="手机" scheme="https://cyanorange.tk/tags/%E6%89%8B%E6%9C%BA/"/>
+    
+    <category term="验证" scheme="https://cyanorange.tk/tags/%E9%AA%8C%E8%AF%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Temp Mail - 临时邮箱验证</title>
+    <link href="https://cyanorange.tk/2023/04/07/tempmail/"/>
+    <id>https://cyanorange.tk/2023/04/07/tempmail/</id>
+    <published>2023-04-07T03:50:12.000Z</published>
+    <updated>2023-04-07T03:52:48.359Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Temp Mail</strong> 是一个提供临时、一次性电子邮件地址的网站。用户可以在该网站上生成一个随机的邮箱地址，用于接收邮件，当用户不再需要这个邮箱地址时，可以直接关闭该页面，这个地址就会被永久删除并不可恢复。</p><p><img src="/img/tempmail/image-20230407115155487.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://temp-mail.org/">https://temp-mail.org/</a></p></blockquote><p>tempmail主要针对用户需要快速接收或发送一次性邮件的情况，例如注册网站、下载文件等需要使用电子邮件的情形。在使用tempmail时，用户无需填写个人真实姓名、电话号码等信息，有效避免因邮件泄露等而产生的个人隐私泄露风险。但需要注意的是，因为tempmail是一个公共的电子邮件地址，其他人也可以使用同样的地址，因此不适合用于重要、机密信息的传递。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Temp Mail&lt;/strong&gt; 是一个提供临时、一次性电子邮件地址的网站。用户可以在该网站上生成一个随机的邮箱地址，用于接收邮件，当用户不再需要这个邮箱地址时，可以直接关闭该页面，这个地址就会被永久删除并不可恢复。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/tempmail/image-20230407115155487.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="验证" scheme="https://cyanorange.tk/tags/%E9%AA%8C%E8%AF%81/"/>
+    
+    <category term="邮箱" scheme="https://cyanorange.tk/tags/%E9%82%AE%E7%AE%B1/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Rufus - 轻松创建USB启动盘</title>
     <link href="https://cyanorange.tk/2023/04/06/rufus/"/>
     <id>https://cyanorange.tk/2023/04/06/rufus/</id>
     <published>2023-04-06T06:45:27.000Z</published>
-    <updated>2023-04-06T11:30:37.870Z</updated>
+    <updated>2023-04-07T03:46:53.589Z</updated>
     
     <content type="html"><![CDATA[<p><strong>Rufus</strong> 是一个提供免费、开源的Windows USB启动盘制作工具的网站。用户可以在该网站上下载Rufus软件，使用该软件将ISO镜像文件写入USB启动盘，从而将Windows操作系统安装到计算机中。</p><p><img src="/img/rufus/image-20230406145958765.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://rufus.ie/">https://rufus.ie/</a></p></blockquote><p>Rufus软件具有简单易用、功能强大等特点，支持多种文件系统和启动模式，可以帮助用户快速制作Windows USB启动盘。该软件还支持UEFI和BIOS两种启动模式，方便用户选择适合自己的启动方式。</p><p>此外，Rufus.ie还提供了一些关于Windows USB启动盘制作的教程和常见问题解答，方便用户了解和使用该工具。该网站还提供了一些其他的工具，如MemTest86、UNetbootin等，方便用户进行系统维护和修复。</p><p>总之，Rufus.ie是一个非常实用和方便的Windows USB启动盘制作工具，可以帮助用户快速安装Windows操作系统和进行系统维护。</p>]]></content>
     
@@ -31,7 +79,7 @@
     
     
     
-    <category term="良心工具" scheme="https://cyanorange.tk/categories/%E8%89%AF%E5%BF%83%E5%B7%A5%E5%85%B7/"/>
+    <category term="良心软件" scheme="https://cyanorange.tk/categories/%E8%89%AF%E5%BF%83%E8%BD%AF%E4%BB%B6/"/>
     
     
     <category term="装机" scheme="https://cyanorange.tk/tags/%E8%A3%85%E6%9C%BA/"/>
@@ -150,9 +198,9 @@
     <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="SOC" scheme="https://cyanorange.tk/tags/SOC/"/>
-    
     <category term="手机" scheme="https://cyanorange.tk/tags/%E6%89%8B%E6%9C%BA/"/>
+    
+    <category term="SOC" scheme="https://cyanorange.tk/tags/SOC/"/>
     
     <category term="芯片" scheme="https://cyanorange.tk/tags/%E8%8A%AF%E7%89%87/"/>
     
