@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cyanorange.tk/2023/04/09/handle/</loc>
+    
+    <lastmod>2023-04-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cyanorange.tk/2023/04/07/airportal/</loc>
     
     <lastmod>2023-04-07</lastmod>
@@ -425,6 +434,13 @@
   
   <url>
     <loc>https://cyanorange.tk/tags/%E5%A4%A9%E6%B0%94/</loc>
+    <lastmod>2023-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cyanorange.tk/tags/%E6%B1%89%E5%AD%97/</loc>
     <lastmod>2023-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

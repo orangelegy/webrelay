@@ -6,7 +6,7 @@
   <link href="https://cyanorange.tk/atom.xml" rel="self"/>
   
   <link href="https://cyanorange.tk/"/>
-  <updated>2023-04-07T04:47:56.519Z</updated>
+  <updated>2023-04-08T17:04:19.012Z</updated>
   <id>https://cyanorange.tk/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>汉兜 - 汉字wordle</title>
+    <link href="https://cyanorange.tk/2023/04/09/handle/"/>
+    <id>https://cyanorange.tk/2023/04/09/handle/</id>
+    <published>2023-04-08T16:50:58.000Z</published>
+    <updated>2023-04-08T17:04:19.012Z</updated>
+    
+    <content type="html"><![CDATA[<p>汉兜是一个盲猜成语的游戏，类似于国外的 Wordle 猜单词游戏，但更适合我们玩。网站将每个汉字拆分成汉字、声母、韵母、声调四个部分，猜对的部分会变色，自己接着猜就行，每个成语有十次机会⁵。这个游戏很有趣，你可以去尝试一下。😊</p><p><img src="/img/handle/image-20230409005437517.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://handle.antfu.me/">https://handle.antfu.me/</a></p></blockquote><p><img src="../img/handle/image-20230409010413746.png" alt="" /></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;汉兜是一个盲猜成语的游戏，类似于国外的 Wordle 猜单词游戏，但更适合我们玩。网站将每个汉字拆分成汉字、声母、韵母、声调四个部分，猜对的部分会变色，自己接着猜就行，每个成语有十次机会⁵。这个游戏很有趣，你可以去尝试一下。😊&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/handle/image-20230409005437517.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="在线游戏" scheme="https://cyanorange.tk/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="益智" scheme="https://cyanorange.tk/tags/%E7%9B%8A%E6%99%BA/"/>
+    
+    <category term="汉字" scheme="https://cyanorange.tk/tags/%E6%B1%89%E5%AD%97/"/>
+    
+  </entry>
   
   <entry>
     <title>StartAllBack - Windows11任务栏美化工具</title>
@@ -468,30 +492,6 @@
     <category term="斗鱼" scheme="https://cyanorange.tk/tags/%E6%96%97%E9%B1%BC/"/>
     
     <category term="虎牙" scheme="https://cyanorange.tk/tags/%E8%99%8E%E7%89%99/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Maze Generator - 迷宫生成器</title>
-    <link href="https://cyanorange.tk/2023/03/24/Maze-Generator/"/>
-    <id>https://cyanorange.tk/2023/03/24/Maze-Generator/</id>
-    <published>2023-03-24T08:08:05.000Z</published>
-    <updated>2023-04-05T15:19:04.775Z</updated>
-    
-    <content type="html"><![CDATA[<p>这个网站提供了多种不同类型的迷宫生成器，包括基于回溯算法和随机普里姆算法的迷宫生成器。用户可以选择不同的设置和算法，以生成符合自己需求的迷宫。网站的界面简洁明了，易于操作。同时，该网站还提供了对生成迷宫的一些控制，例如迷宫的大小、墙壁的厚度和颜色等等。总体来说，MazeGenerator 是一个优秀的迷宫生成器网站。</p><p><img src="/img/maze-generator/1.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://www.mazegenerator.net/">https://www.mazegenerator.net/</a></p></blockquote><h3 id="使用方法"><a class="markdownIt-Anchor" href="#使用方法"></a> 使用方法：</h3><ol><li><p>打开 <a href="http://mazegenerator.net">mazegenerator.net</a> 网站，并选择您需要的迷宫类型，例如标准迷宫、圆形迷宫、三角形迷宫等等。可以在网页上方的下拉菜单中进行选择。</p></li><li><p>在迷宫设置区域中，您可以自定义迷宫的大小、难度等级、路径宽度、墙壁厚度等等。可以通过滑块或输入框进行设置。</p></li><li><p>在迷宫风格区域中，您可以选择迷宫的颜色和外观，例如背景颜色、墙壁颜色、路径颜色等等。</p></li><li><p>在网页的右侧区域，您可以预览生成的迷宫，并进行微调和修改。</p></li><li><p>点击 “Generate” 按钮，即可生成您所需要的迷宫。如果您不满意生成的迷宫，可以点击 “Generate New” 按钮进行重新生成。</p></li><li><p>生成的迷宫可以通过下载或复制链接的方式进行保存和分享。</p></li></ol><p>以上是使用 <a href="http://mazegenerator.net">mazegenerator.net</a> 网站生成迷宫的简单步骤，希望对您有所帮助。</p><h3 id="示例"><a class="markdownIt-Anchor" href="#示例"></a> 示例：</h3><p><img src="/img/maze-generator/2.jpg" alt="" /></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;这个网站提供了多种不同类型的迷宫生成器，包括基于回溯算法和随机普里姆算法的迷宫生成器。用户可以选择不同的设置和算法，以生成符合自己需求的迷宫。网站的界面简洁明了，易于操作。同时，该网站还提供了对生成迷宫的一些控制，例如迷宫的大小、墙壁的厚度和颜色等等。总体来说，MazeGenerator 是一个优秀的迷宫生成器网站。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/img/maze-generator/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="在线游戏" scheme="https://cyanorange.tk/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
-    
-    
-    <category term="益智" scheme="https://cyanorange.tk/tags/%E7%9B%8A%E6%99%BA/"/>
-    
-    <category term="迷宫" scheme="https://cyanorange.tk/tags/%E8%BF%B7%E5%AE%AB/"/>
     
   </entry>
   
