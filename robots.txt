@@ -1,11 +1,5 @@
 User-agent: *
 Allow: /
-Allow: /categories/
-Allow: /archives/
-Allow: /tags/
-Allow: /about/
-Disallow: /js/
-Disallow: /css/
 
-Sitemap: http://cyanorange/sitemap.xml
+Sitemap: https://cyanorange/sitemap.xml
 Sitemap: https://cyanorange/baidusitemap.xml
