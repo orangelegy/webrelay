@@ -245,7 +245,7 @@
 
 
 
-    <a data-url="https://cyanorange.tk/2023/03/27/minesweeper/" data-id="clg94dinn0012y8s5du945hz5" class="article-share-link"><i class="fa fa-share"></i>分享到</a>
+    <a data-url="https://cyanorange.tk/2023/03/27/minesweeper/" data-id="clg94grp9000mx0s59bb41fkn" class="article-share-link"><i class="fa fa-share"></i>分享到</a>
 <script>
     (function ($) {
         $('body').on('click', function() {
@@ -334,9 +334,7 @@
     <section id="comments">
     
         
-    <div id="disqus_thread">
-        <noscript>Please enable JavaScript to view the <a target="_blank" rel="noopener" href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    </div>
+<div id="comment-container"></div>
 
 
     
@@ -520,20 +518,19 @@
     </div>
     
     
-    <script>
-    var disqus_shortname = 'hexo-theme-hueman';
-    
-    
-    var disqus_url = 'https://cyanorange.tk/2023/03/27/minesweeper/';
-    
-    (function() {
-    var dsq = document.createElement('script');
-    dsq.type = 'text/javascript';
-    dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-    </script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<script>
+    var gitalk = new Gitalk({
+        clientID: '37fe162ae69021f048f1',
+        clientSecret: '194528c5a37d1af54b7fa5e630fbaebb13ec9fa3',
+        id: '05b98c0861a61c8180017d39702265ab',
+        repo: 'https://github.com/orangelegy/orangelegy.github.io',
+        owner: 'orangelegy',
+        admin: "orangelegy"
+    })
+    gitalk.render('comment-container')
+</script>
 
 
 
