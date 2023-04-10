@@ -6,7 +6,7 @@
   <link href="https://cyanorange.tk/atom.xml" rel="self"/>
   
   <link href="https://cyanorange.tk/"/>
-  <updated>2023-04-10T17:45:04.135Z</updated>
+  <updated>2023-04-10T18:28:00.774Z</updated>
   <id>https://cyanorange.tk/</id>
   
   <author>
@@ -21,13 +21,14 @@
     <link href="https://cyanorange.tk/2023/ciying/"/>
     <id>https://cyanorange.tk/2023/ciying/</id>
     <published>2023-04-09T13:23:35.000Z</published>
-    <updated>2023-04-10T17:45:04.135Z</updated>
+    <updated>2023-04-10T18:28:00.774Z</updated>
     
-    <content type="html"><![CDATA[<p>词影跟之前推荐的汉兜（Handle）玩法类似，不过汉兜是通过拼音猜成语，而词影是一款将象形汉字与Wordle猜测结合起来的猜成语小游戏。欢迎大家试玩。</p><p><img src="pic.cyanorange.tk/img/image-20230409212753167.png" alt="" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://cy.surprising.studio/">https://cy.surprising.studio/</a></p></blockquote><ul><li>教程：</li></ul><p><img src="pic.cyanorange.tk%5Cimg%5Cimage-20230409212950754.png" alt="" /></p><p>不要被教程劝退，一看就废，一玩就会！</p>]]></content>
+    <content type="html"><![CDATA[<meta name="referrer" content="no-referrer" /><p>词影跟之前推荐的汉兜（Handle）玩法类似，不过汉兜是通过拼音猜成语，而词影是一款将象形汉字与Wordle猜测结合起来的猜成语小游戏。欢迎大家试玩。</p><p><img src="pic.cyanorange.tk/img/image-20230409212753167.png" alt="index" /></p><span id="more"></span><blockquote><p>传送门：<a href="https://cy.surprising.studio/">https://cy.surprising.studio/</a></p></blockquote><ul><li>教程：</li></ul><p><img src="pic.cyanorange.tk%5Cimg%5Cimage-20230409212950754.png" alt="" /></p><p>不要被教程劝退，一看就废，一玩就会！</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;词影跟之前推荐的汉兜（Handle）玩法类似，不过汉兜是通过拼音猜成语，而词影是一款将象形汉字与Wordle猜测结合起来的猜成语小游戏。欢迎大家试玩。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;pic.cyanorange.tk/img/image-20230409212753167.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot; /&gt;
+&lt;p&gt;词影跟之前推荐的汉兜（Handle）玩法类似，不过汉兜是通过拼音猜成语，而词影是一款将象形汉字与Wordle猜测结合起来的猜成语小游戏。欢迎大家试玩。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;pic.cyanorange.tk/img/image-20230409212753167.png&quot; alt=&quot;index&quot; /&gt;&lt;/p&gt;</summary>
     
     
     
@@ -398,9 +399,9 @@
     <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="SOC" scheme="https://cyanorange.tk/tags/SOC/"/>
-    
     <category term="手机" scheme="https://cyanorange.tk/tags/%E6%89%8B%E6%9C%BA/"/>
+    
+    <category term="SOC" scheme="https://cyanorange.tk/tags/SOC/"/>
     
     <category term="芯片" scheme="https://cyanorange.tk/tags/%E8%8A%AF%E7%89%87/"/>
     
