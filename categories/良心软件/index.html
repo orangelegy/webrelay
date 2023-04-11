@@ -75,7 +75,10 @@
                     <h1 class="logo-wrap">
                         <a href="/" class="logo"></a>
                     </h1>
-                    
+                    <h2 class="subtitle-wrap">
+                        <p class="subtitle">优质网站收录</p>
+                    </h2>
+                    <!--  -->
                 </div>
                 <div id="header-inner" class="nav-container">
                     <a id="main-nav-toggle" class="nav-icon fa fa-bars"></a>
@@ -289,6 +292,14 @@
             
                 
                 <li>
+                    <a class="social-tooltip" title="steam" href="https://steamcommunity.com/profiles/76561198844194439/" target="_blank" rel="noopener">
+                        <i class="icon fa fa-steam"></i>
+                    </a>
+                </li>
+                
+            
+                
+                <li>
                     <a class="social-tooltip" title="spotify" href="https://open.spotify.com/user/31t3l5qo65q67g2nudyopovt6kgi" target="_blank" rel="noopener">
                         <i class="icon fa fa-spotify"></i>
                     </a>
@@ -355,15 +366,19 @@
             <ul>
                 
                     <li>
-                        <a href="mailto:orangelegy@qq.com">📧点击投稿</a>
+                        <a href="mailto:orangelegy@qq.com">👉点击投稿</a>
                     </li>
                 
                     <li>
-                        <a target="_blank" rel="noopener" href="https://blog.cyanorange.tk/">🪪个人博客</a>
+                        <a target="_blank" rel="noopener" href="https://blog.cyanorange.tk/">个人博客</a>
                     </li>
                 
                     <li>
-                        <a target="_blank" rel="noopener" href="https://space.bilibili.com/88877294">📺作者B站</a>
+                        <a target="_blank" rel="noopener" href="https://space.bilibili.com/88877294">我的B站</a>
+                    </li>
+                
+                    <li>
+                        <a target="_blank" rel="noopener" href="https://pic.cyanorange.tk/img/qq.jpg">加我QQ</a>
                     </li>
                 
             </ul>
@@ -417,19 +432,26 @@
     </div>
     
     
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-<script>
-    var gitalk = new Gitalk({
-        clientID: '37fe162ae69021f048f1',
-        clientSecret: '194528c5a37d1af54b7fa5e630fbaebb13ec9fa3',
-        id: '74e6ba52ccdae1ee464f666510f9544a',
-        repo: 'https://github.com/orangelegy/mysite',
-        owner: 'orangelegy',
-        admin: null
-    })
-    gitalk.render('comment-container')
-</script>
+    <script src="//unpkg.com/valine"></script>
+    <script>
+        var GUEST = ['nick','mail','link'];
+        var meta = '';
+        meta = meta.split(',').filter(function (item) {
+            return GUEST.indexOf(item)>-1;
+        });
+        var avatarcdn = 'https://gravatar.loli.net/avatar/' == true;
+        new Valine({
+            el: '.vcomments',
+            notify: "",
+            verify: "",
+            appId: "GQucX9xFCYkBV6u3TUntLfhf-gzGzoHsz",
+            appKey: "9THhfBH680hslMmtsww6fTe3",
+            placeholder: "你猜我的评论区在等待谁？",
+            avatar:"mp",
+            recordIP:"true",
+            visitor: "true"
+        });
+    </script>
 
 
 
