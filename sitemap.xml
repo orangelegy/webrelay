@@ -331,20 +331,6 @@
   </url>
   
   <url>
-    <loc>https://webrelay.cn/tags/%E4%BC%A0%E8%BE%93/</loc>
-    <lastmod>2023-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://webrelay.cn/tags/%E6%96%87%E4%BB%B6/</loc>
-    <lastmod>2023-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://webrelay.cn/tags/%E5%8E%86%E5%8F%B2/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -359,28 +345,14 @@
   </url>
   
   <url>
-    <loc>https://webrelay.cn/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://webrelay.cn/tags/%E4%BC%A0%E8%BE%93/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://webrelay.cn/tags/AI/</loc>
-    <lastmod>2023-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://webrelay.cn/tags/ChatGPT/</loc>
-    <lastmod>2023-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://webrelay.cn/tags/%E2%9C%88%EF%B8%8F/</loc>
+    <loc>https://webrelay.cn/tags/%E6%96%87%E4%BB%B6/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -429,14 +401,28 @@
   </url>
   
   <url>
-    <loc>https://webrelay.cn/tags/%E8%84%9A%E6%9C%AC/</loc>
+    <loc>https://webrelay.cn/tags/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://webrelay.cn/tags/%E7%BD%91%E9%A1%B5/</loc>
+    <loc>https://webrelay.cn/tags/AI/</loc>
+    <lastmod>2023-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/tags/ChatGPT/</loc>
+    <lastmod>2023-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/tags/%E2%9C%88%EF%B8%8F/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -492,6 +478,20 @@
   </url>
   
   <url>
+    <loc>https://webrelay.cn/tags/%E8%84%9A%E6%9C%AC/</loc>
+    <lastmod>2023-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/tags/%E7%BD%91%E9%A1%B5/</loc>
+    <lastmod>2023-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://webrelay.cn/tags/Logo/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -541,14 +541,14 @@
   </url>
   
   <url>
-    <loc>https://webrelay.cn/tags/%E6%8A%A0%E5%9B%BE/</loc>
+    <loc>https://webrelay.cn/tags/%E6%8B%BC%E5%9B%BE/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://webrelay.cn/tags/%E6%8B%BC%E5%9B%BE/</loc>
+    <loc>https://webrelay.cn/tags/%E6%8A%A0%E5%9B%BE/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -569,14 +569,7 @@
   </url>
   
   <url>
-    <loc>https://webrelay.cn/tags/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2023-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://webrelay.cn/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://webrelay.cn/tags/SOC/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -584,34 +577,6 @@
   
   <url>
     <loc>https://webrelay.cn/tags/%E6%89%8B%E6%9C%BA/</loc>
-    <lastmod>2023-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://webrelay.cn/tags/%E9%AA%8C%E8%AF%81/</loc>
-    <lastmod>2023-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://webrelay.cn/tags/%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2023-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://webrelay.cn/tags/%E4%BB%BB%E5%8A%A1%E6%A0%8F/</loc>
-    <lastmod>2023-04-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://webrelay.cn/tags/SOC/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -646,6 +611,41 @@
   </url>
   
   <url>
+    <loc>https://webrelay.cn/tags/%E9%AA%8C%E8%AF%81/</loc>
+    <lastmod>2023-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/tags/%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2023-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/tags/%E7%BE%8E%E5%8C%96/</loc>
+    <lastmod>2023-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/tags/%E4%BB%BB%E5%8A%A1%E6%A0%8F/</loc>
+    <lastmod>2023-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://webrelay.cn/tags/%E9%82%AE%E7%AE%B1/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -653,14 +653,14 @@
   </url>
   
   <url>
-    <loc>https://webrelay.cn/tags/%E5%A3%81%E7%BA%B8/</loc>
+    <loc>https://webrelay.cn/tags/%E5%A4%A9%E6%B0%94/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://webrelay.cn/tags/%E5%A4%A9%E6%B0%94/</loc>
+    <loc>https://webrelay.cn/tags/%E5%A3%81%E7%BA%B8/</loc>
     <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
