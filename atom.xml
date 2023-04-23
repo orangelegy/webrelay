@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>网络驿站 - 优质网站收录</title>
   
-  <subtitle>优质网站收录</subtitle>
-  <link href="https://cyanorange.tk/atom.xml" rel="self"/>
+  <subtitle>优质网站推荐</subtitle>
+  <link href="https://webrelay.cn/atom.xml" rel="self"/>
   
-  <link href="https://cyanorange.tk/"/>
+  <link href="https://webrelay.cn/"/>
   <updated>2023-04-13T15:58:46.356Z</updated>
-  <id>https://cyanorange.tk/</id>
+  <id>https://webrelay.cn/</id>
   
   <author>
     <name>青橙</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>稿定 - 在线PS</title>
-    <link href="https://cyanorange.tk/2023/gaodingps/"/>
-    <id>https://cyanorange.tk/2023/gaodingps/</id>
+    <link href="https://webrelay.cn/2023/gaodingps/"/>
+    <id>https://webrelay.cn/2023/gaodingps/</id>
     <published>2023-04-12T14:46:06.000Z</published>
     <updated>2023-04-13T15:58:46.356Z</updated>
     
@@ -30,21 +30,21 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="设计" scheme="https://cyanorange.tk/tags/%E8%AE%BE%E8%AE%A1/"/>
+    <category term="设计" scheme="https://webrelay.cn/tags/%E8%AE%BE%E8%AE%A1/"/>
     
-    <category term="PS" scheme="https://cyanorange.tk/tags/PS/"/>
+    <category term="PS" scheme="https://webrelay.cn/tags/PS/"/>
     
-    <category term="图片" scheme="https://cyanorange.tk/tags/%E5%9B%BE%E7%89%87/"/>
+    <category term="图片" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87/"/>
     
   </entry>
   
   <entry>
     <title>Magic Eraser - 魔法橡皮擦 ✈️</title>
-    <link href="https://cyanorange.tk/2023/magiceraser/"/>
-    <id>https://cyanorange.tk/2023/magiceraser/</id>
+    <link href="https://webrelay.cn/2023/magiceraser/"/>
+    <id>https://webrelay.cn/2023/magiceraser/</id>
     <published>2023-04-12T14:28:52.000Z</published>
     <updated>2023-04-13T15:47:39.163Z</updated>
     
@@ -55,21 +55,21 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="✈️" scheme="https://cyanorange.tk/tags/%E2%9C%88%EF%B8%8F/"/>
+    <category term="✈️" scheme="https://webrelay.cn/tags/%E2%9C%88%EF%B8%8F/"/>
     
-    <category term="图片" scheme="https://cyanorange.tk/tags/%E5%9B%BE%E7%89%87/"/>
+    <category term="图片" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87/"/>
     
-    <category term="橡皮擦" scheme="https://cyanorange.tk/tags/%E6%A9%A1%E7%9A%AE%E6%93%A6/"/>
+    <category term="橡皮擦" scheme="https://webrelay.cn/tags/%E6%A9%A1%E7%9A%AE%E6%93%A6/"/>
     
   </entry>
   
   <entry>
     <title>拼图侠 ✈️</title>
-    <link href="https://cyanorange.tk/2023/pintuxia/"/>
-    <id>https://cyanorange.tk/2023/pintuxia/</id>
+    <link href="https://webrelay.cn/2023/pintuxia/"/>
+    <id>https://webrelay.cn/2023/pintuxia/</id>
     <published>2023-04-12T13:06:39.000Z</published>
     <updated>2023-04-13T15:47:45.961Z</updated>
     
@@ -80,21 +80,21 @@
     
     
     
-    <category term="在线游戏" scheme="https://cyanorange.tk/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
+    <category term="在线游戏" scheme="https://webrelay.cn/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="益智" scheme="https://cyanorange.tk/tags/%E7%9B%8A%E6%99%BA/"/>
+    <category term="益智" scheme="https://webrelay.cn/tags/%E7%9B%8A%E6%99%BA/"/>
     
-    <category term="✈️" scheme="https://cyanorange.tk/tags/%E2%9C%88%EF%B8%8F/"/>
+    <category term="✈️" scheme="https://webrelay.cn/tags/%E2%9C%88%EF%B8%8F/"/>
     
-    <category term="拼图" scheme="https://cyanorange.tk/tags/%E6%8B%BC%E5%9B%BE/"/>
+    <category term="拼图" scheme="https://webrelay.cn/tags/%E6%8B%BC%E5%9B%BE/"/>
     
   </entry>
   
   <entry>
     <title>词影 - 中文Worlde游戏</title>
-    <link href="https://cyanorange.tk/2023/ciying/"/>
-    <id>https://cyanorange.tk/2023/ciying/</id>
+    <link href="https://webrelay.cn/2023/ciying/"/>
+    <id>https://webrelay.cn/2023/ciying/</id>
     <published>2023-04-09T13:23:35.000Z</published>
     <updated>2023-04-13T15:48:02.005Z</updated>
     
@@ -105,21 +105,21 @@
     
     
     
-    <category term="在线游戏" scheme="https://cyanorange.tk/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
+    <category term="在线游戏" scheme="https://webrelay.cn/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="益智" scheme="https://cyanorange.tk/tags/%E7%9B%8A%E6%99%BA/"/>
+    <category term="益智" scheme="https://webrelay.cn/tags/%E7%9B%8A%E6%99%BA/"/>
     
-    <category term="成语" scheme="https://cyanorange.tk/tags/%E6%88%90%E8%AF%AD/"/>
+    <category term="成语" scheme="https://webrelay.cn/tags/%E6%88%90%E8%AF%AD/"/>
     
-    <category term="汉字" scheme="https://cyanorange.tk/tags/%E6%B1%89%E5%AD%97/"/>
+    <category term="汉字" scheme="https://webrelay.cn/tags/%E6%B1%89%E5%AD%97/"/>
     
   </entry>
   
   <entry>
     <title>Speedtest - 测速网</title>
-    <link href="https://cyanorange.tk/2023/speedtest/"/>
-    <id>https://cyanorange.tk/2023/speedtest/</id>
+    <link href="https://webrelay.cn/2023/speedtest/"/>
+    <id>https://webrelay.cn/2023/speedtest/</id>
     <published>2023-04-09T13:14:53.000Z</published>
     <updated>2023-04-13T15:48:06.635Z</updated>
     
@@ -130,19 +130,19 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="网络" scheme="https://cyanorange.tk/tags/%E7%BD%91%E7%BB%9C/"/>
+    <category term="网络" scheme="https://webrelay.cn/tags/%E7%BD%91%E7%BB%9C/"/>
     
-    <category term="测试" scheme="https://cyanorange.tk/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="https://webrelay.cn/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>removebg - 在线AI抠图</title>
-    <link href="https://cyanorange.tk/2023/removebg/"/>
-    <id>https://cyanorange.tk/2023/removebg/</id>
+    <link href="https://webrelay.cn/2023/removebg/"/>
+    <id>https://webrelay.cn/2023/removebg/</id>
     <published>2023-04-09T13:02:37.000Z</published>
     <updated>2023-04-13T15:48:11.217Z</updated>
     
@@ -153,17 +153,17 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="抠图" scheme="https://cyanorange.tk/tags/%E6%8A%A0%E5%9B%BE/"/>
+    <category term="抠图" scheme="https://webrelay.cn/tags/%E6%8A%A0%E5%9B%BE/"/>
     
   </entry>
   
   <entry>
     <title>LogoNews- 标志情报局</title>
-    <link href="https://cyanorange.tk/2023/logonews/"/>
-    <id>https://cyanorange.tk/2023/logonews/</id>
+    <link href="https://webrelay.cn/2023/logonews/"/>
+    <id>https://webrelay.cn/2023/logonews/</id>
     <published>2023-04-09T12:55:16.000Z</published>
     <updated>2023-04-13T15:48:18.964Z</updated>
     
@@ -174,21 +174,21 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="Logo" scheme="https://cyanorange.tk/tags/Logo/"/>
+    <category term="Logo" scheme="https://webrelay.cn/tags/Logo/"/>
     
-    <category term="新闻" scheme="https://cyanorange.tk/tags/%E6%96%B0%E9%97%BB/"/>
+    <category term="新闻" scheme="https://webrelay.cn/tags/%E6%96%B0%E9%97%BB/"/>
     
-    <category term="资讯" scheme="https://cyanorange.tk/tags/%E8%B5%84%E8%AE%AF/"/>
+    <category term="资讯" scheme="https://webrelay.cn/tags/%E8%B5%84%E8%AE%AF/"/>
     
   </entry>
   
   <entry>
     <title>中国印钞造币集团有限公司官网</title>
-    <link href="https://cyanorange.tk/2023/cbpm/"/>
-    <id>https://cyanorange.tk/2023/cbpm/</id>
+    <link href="https://webrelay.cn/2023/cbpm/"/>
+    <id>https://webrelay.cn/2023/cbpm/</id>
     <published>2023-04-09T12:41:25.000Z</published>
     <updated>2023-04-13T15:48:23.153Z</updated>
     
@@ -199,23 +199,23 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="人民币" scheme="https://cyanorange.tk/tags/%E4%BA%BA%E6%B0%91%E5%B8%81/"/>
+    <category term="人民币" scheme="https://webrelay.cn/tags/%E4%BA%BA%E6%B0%91%E5%B8%81/"/>
     
-    <category term="纪念币" scheme="https://cyanorange.tk/tags/%E7%BA%AA%E5%BF%B5%E5%B8%81/"/>
+    <category term="纪念币" scheme="https://webrelay.cn/tags/%E7%BA%AA%E5%BF%B5%E5%B8%81/"/>
     
-    <category term="钱币" scheme="https://cyanorange.tk/tags/%E9%92%B1%E5%B8%81/"/>
+    <category term="钱币" scheme="https://webrelay.cn/tags/%E9%92%B1%E5%B8%81/"/>
     
-    <category term="收藏" scheme="https://cyanorange.tk/tags/%E6%94%B6%E8%97%8F/"/>
+    <category term="收藏" scheme="https://webrelay.cn/tags/%E6%94%B6%E8%97%8F/"/>
     
   </entry>
   
   <entry>
     <title>汉兜 - 汉字Wordle</title>
-    <link href="https://cyanorange.tk/2023/handle/"/>
-    <id>https://cyanorange.tk/2023/handle/</id>
+    <link href="https://webrelay.cn/2023/handle/"/>
+    <id>https://webrelay.cn/2023/handle/</id>
     <published>2023-04-08T16:50:58.000Z</published>
     <updated>2023-04-13T15:48:28.218Z</updated>
     
@@ -226,21 +226,21 @@
     
     
     
-    <category term="在线游戏" scheme="https://cyanorange.tk/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
+    <category term="在线游戏" scheme="https://webrelay.cn/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="益智" scheme="https://cyanorange.tk/tags/%E7%9B%8A%E6%99%BA/"/>
+    <category term="益智" scheme="https://webrelay.cn/tags/%E7%9B%8A%E6%99%BA/"/>
     
-    <category term="成语" scheme="https://cyanorange.tk/tags/%E6%88%90%E8%AF%AD/"/>
+    <category term="成语" scheme="https://webrelay.cn/tags/%E6%88%90%E8%AF%AD/"/>
     
-    <category term="汉字" scheme="https://cyanorange.tk/tags/%E6%B1%89%E5%AD%97/"/>
+    <category term="汉字" scheme="https://webrelay.cn/tags/%E6%B1%89%E5%AD%97/"/>
     
   </entry>
   
   <entry>
     <title>StartAllBack - Windows11任务栏美化工具</title>
-    <link href="https://cyanorange.tk/2023/startallback/"/>
-    <id>https://cyanorange.tk/2023/startallback/</id>
+    <link href="https://webrelay.cn/2023/startallback/"/>
+    <id>https://webrelay.cn/2023/startallback/</id>
     <published>2023-04-07T04:34:53.000Z</published>
     <updated>2023-04-13T15:48:32.585Z</updated>
     
@@ -251,21 +251,21 @@
     
     
     
-    <category term="良心软件" scheme="https://cyanorange.tk/categories/%E8%89%AF%E5%BF%83%E8%BD%AF%E4%BB%B6/"/>
+    <category term="良心软件" scheme="https://webrelay.cn/categories/%E8%89%AF%E5%BF%83%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="Windows" scheme="https://cyanorange.tk/tags/Windows/"/>
+    <category term="Windows" scheme="https://webrelay.cn/tags/Windows/"/>
     
-    <category term="美化" scheme="https://cyanorange.tk/tags/%E7%BE%8E%E5%8C%96/"/>
+    <category term="美化" scheme="https://webrelay.cn/tags/%E7%BE%8E%E5%8C%96/"/>
     
-    <category term="任务栏" scheme="https://cyanorange.tk/tags/%E4%BB%BB%E5%8A%A1%E6%A0%8F/"/>
+    <category term="任务栏" scheme="https://webrelay.cn/tags/%E4%BB%BB%E5%8A%A1%E6%A0%8F/"/>
     
   </entry>
   
   <entry>
     <title>AirPortal - 空投快传</title>
-    <link href="https://cyanorange.tk/2023/airportal/"/>
-    <id>https://cyanorange.tk/2023/airportal/</id>
+    <link href="https://webrelay.cn/2023/airportal/"/>
+    <id>https://webrelay.cn/2023/airportal/</id>
     <published>2023-04-07T04:27:25.000Z</published>
     <updated>2023-04-13T15:48:36.118Z</updated>
     
@@ -276,19 +276,19 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="传输" scheme="https://cyanorange.tk/tags/%E4%BC%A0%E8%BE%93/"/>
+    <category term="传输" scheme="https://webrelay.cn/tags/%E4%BC%A0%E8%BE%93/"/>
     
-    <category term="文件" scheme="https://cyanorange.tk/tags/%E6%96%87%E4%BB%B6/"/>
+    <category term="文件" scheme="https://webrelay.cn/tags/%E6%96%87%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>SMS-Activate - 国外手机验证</title>
-    <link href="https://cyanorange.tk/2023/sms-activate/"/>
-    <id>https://cyanorange.tk/2023/sms-activate/</id>
+    <link href="https://webrelay.cn/2023/sms-activate/"/>
+    <id>https://webrelay.cn/2023/sms-activate/</id>
     <published>2023-04-07T03:58:13.000Z</published>
     <updated>2023-04-13T15:48:39.387Z</updated>
     
@@ -299,19 +299,19 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="手机" scheme="https://cyanorange.tk/tags/%E6%89%8B%E6%9C%BA/"/>
+    <category term="手机" scheme="https://webrelay.cn/tags/%E6%89%8B%E6%9C%BA/"/>
     
-    <category term="验证" scheme="https://cyanorange.tk/tags/%E9%AA%8C%E8%AF%81/"/>
+    <category term="验证" scheme="https://webrelay.cn/tags/%E9%AA%8C%E8%AF%81/"/>
     
   </entry>
   
   <entry>
     <title>Temp Mail - 临时邮箱验证</title>
-    <link href="https://cyanorange.tk/2023/tempmail/"/>
-    <id>https://cyanorange.tk/2023/tempmail/</id>
+    <link href="https://webrelay.cn/2023/tempmail/"/>
+    <id>https://webrelay.cn/2023/tempmail/</id>
     <published>2023-04-07T03:50:12.000Z</published>
     <updated>2023-04-13T15:48:44.779Z</updated>
     
@@ -322,19 +322,19 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="验证" scheme="https://cyanorange.tk/tags/%E9%AA%8C%E8%AF%81/"/>
+    <category term="验证" scheme="https://webrelay.cn/tags/%E9%AA%8C%E8%AF%81/"/>
     
-    <category term="邮箱" scheme="https://cyanorange.tk/tags/%E9%82%AE%E7%AE%B1/"/>
+    <category term="邮箱" scheme="https://webrelay.cn/tags/%E9%82%AE%E7%AE%B1/"/>
     
   </entry>
   
   <entry>
     <title>Rufus - 轻松创建USB启动盘</title>
-    <link href="https://cyanorange.tk/2023/rufus/"/>
-    <id>https://cyanorange.tk/2023/rufus/</id>
+    <link href="https://webrelay.cn/2023/rufus/"/>
+    <id>https://webrelay.cn/2023/rufus/</id>
     <published>2023-04-06T06:45:27.000Z</published>
     <updated>2023-04-13T15:48:48.056Z</updated>
     
@@ -345,19 +345,19 @@
     
     
     
-    <category term="良心软件" scheme="https://cyanorange.tk/categories/%E8%89%AF%E5%BF%83%E8%BD%AF%E4%BB%B6/"/>
+    <category term="良心软件" scheme="https://webrelay.cn/categories/%E8%89%AF%E5%BF%83%E8%BD%AF%E4%BB%B6/"/>
     
     
-    <category term="装机" scheme="https://cyanorange.tk/tags/%E8%A3%85%E6%9C%BA/"/>
+    <category term="装机" scheme="https://webrelay.cn/tags/%E8%A3%85%E6%9C%BA/"/>
     
-    <category term="Windows" scheme="https://cyanorange.tk/tags/Windows/"/>
+    <category term="Windows" scheme="https://webrelay.cn/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>雀魂麻将</title>
-    <link href="https://cyanorange.tk/2023/maj-soul/"/>
-    <id>https://cyanorange.tk/2023/maj-soul/</id>
+    <link href="https://webrelay.cn/2023/maj-soul/"/>
+    <id>https://webrelay.cn/2023/maj-soul/</id>
     <published>2023-04-06T06:25:42.000Z</published>
     <updated>2023-04-13T15:48:51.512Z</updated>
     
@@ -368,19 +368,19 @@
     
     
     
-    <category term="在线游戏" scheme="https://cyanorange.tk/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
+    <category term="在线游戏" scheme="https://webrelay.cn/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="日本" scheme="https://cyanorange.tk/tags/%E6%97%A5%E6%9C%AC/"/>
+    <category term="日本" scheme="https://webrelay.cn/tags/%E6%97%A5%E6%9C%AC/"/>
     
-    <category term="麻将" scheme="https://cyanorange.tk/tags/%E9%BA%BB%E5%B0%86/"/>
+    <category term="麻将" scheme="https://webrelay.cn/tags/%E9%BA%BB%E5%B0%86/"/>
     
   </entry>
   
   <entry>
     <title>Windy - 气象图&amp;天气预测</title>
-    <link href="https://cyanorange.tk/2023/windy/"/>
-    <id>https://cyanorange.tk/2023/windy/</id>
+    <link href="https://webrelay.cn/2023/windy/"/>
+    <id>https://webrelay.cn/2023/windy/</id>
     <published>2023-04-06T06:16:40.000Z</published>
     <updated>2023-04-13T15:48:56.237Z</updated>
     
@@ -391,17 +391,17 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="天气" scheme="https://cyanorange.tk/tags/%E5%A4%A9%E6%B0%94/"/>
+    <category term="天气" scheme="https://webrelay.cn/tags/%E5%A4%A9%E6%B0%94/"/>
     
   </entry>
   
   <entry>
     <title>中国气象局 - 天气预报</title>
-    <link href="https://cyanorange.tk/2023/weathercma/"/>
-    <id>https://cyanorange.tk/2023/weathercma/</id>
+    <link href="https://webrelay.cn/2023/weathercma/"/>
+    <id>https://webrelay.cn/2023/weathercma/</id>
     <published>2023-04-06T06:12:02.000Z</published>
     <updated>2023-04-13T15:48:59.772Z</updated>
     
@@ -412,17 +412,17 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="天气" scheme="https://cyanorange.tk/tags/%E5%A4%A9%E6%B0%94/"/>
+    <category term="天气" scheme="https://webrelay.cn/tags/%E5%A4%A9%E6%B0%94/"/>
     
   </entry>
   
   <entry>
     <title>全历史</title>
-    <link href="https://cyanorange.tk/2023/allhistory/"/>
-    <id>https://cyanorange.tk/2023/allhistory/</id>
+    <link href="https://webrelay.cn/2023/allhistory/"/>
+    <id>https://webrelay.cn/2023/allhistory/</id>
     <published>2023-04-06T05:57:09.000Z</published>
     <updated>2023-04-13T15:49:02.900Z</updated>
     
@@ -433,19 +433,19 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="历史" scheme="https://cyanorange.tk/tags/%E5%8E%86%E5%8F%B2/"/>
+    <category term="历史" scheme="https://webrelay.cn/tags/%E5%8E%86%E5%8F%B2/"/>
     
-    <category term="知识" scheme="https://cyanorange.tk/tags/%E7%9F%A5%E8%AF%86/"/>
+    <category term="知识" scheme="https://webrelay.cn/tags/%E7%9F%A5%E8%AF%86/"/>
     
   </entry>
   
   <entry>
     <title>SOCPK - 移动芯片排行</title>
-    <link href="https://cyanorange.tk/2023/socpk/"/>
-    <id>https://cyanorange.tk/2023/socpk/</id>
+    <link href="https://webrelay.cn/2023/socpk/"/>
+    <id>https://webrelay.cn/2023/socpk/</id>
     <published>2023-04-05T16:13:00.000Z</published>
     <updated>2023-04-13T15:49:06.471Z</updated>
     
@@ -456,27 +456,27 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="手机" scheme="https://cyanorange.tk/tags/%E6%89%8B%E6%9C%BA/"/>
+    <category term="SOC" scheme="https://webrelay.cn/tags/SOC/"/>
     
-    <category term="SOC" scheme="https://cyanorange.tk/tags/SOC/"/>
+    <category term="手机" scheme="https://webrelay.cn/tags/%E6%89%8B%E6%9C%BA/"/>
     
-    <category term="芯片" scheme="https://cyanorange.tk/tags/%E8%8A%AF%E7%89%87/"/>
+    <category term="芯片" scheme="https://webrelay.cn/tags/%E8%8A%AF%E7%89%87/"/>
     
-    <category term="苹果" scheme="https://cyanorange.tk/tags/%E8%8B%B9%E6%9E%9C/"/>
+    <category term="苹果" scheme="https://webrelay.cn/tags/%E8%8B%B9%E6%9E%9C/"/>
     
-    <category term="高通" scheme="https://cyanorange.tk/tags/%E9%AB%98%E9%80%9A/"/>
+    <category term="高通" scheme="https://webrelay.cn/tags/%E9%AB%98%E9%80%9A/"/>
     
-    <category term="联发科" scheme="https://cyanorange.tk/tags/%E8%81%94%E5%8F%91%E7%A7%91/"/>
+    <category term="联发科" scheme="https://webrelay.cn/tags/%E8%81%94%E5%8F%91%E7%A7%91/"/>
     
   </entry>
   
   <entry>
     <title>TypingClub - 打字俱乐部</title>
-    <link href="https://cyanorange.tk/2023/typingclub/"/>
-    <id>https://cyanorange.tk/2023/typingclub/</id>
+    <link href="https://webrelay.cn/2023/typingclub/"/>
+    <id>https://webrelay.cn/2023/typingclub/</id>
     <published>2023-04-05T15:55:36.000Z</published>
     <updated>2023-04-13T15:49:11.141Z</updated>
     
@@ -487,10 +487,10 @@
     
     
     
-    <category term="实用网站" scheme="https://cyanorange.tk/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="打字" scheme="https://cyanorange.tk/tags/%E6%89%93%E5%AD%97/"/>
+    <category term="打字" scheme="https://webrelay.cn/tags/%E6%89%93%E5%AD%97/"/>
     
   </entry>
   
