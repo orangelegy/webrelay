@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cyanorange/sitemap.xml
-Sitemap: https://cyanorange/baidusitemap.xml
+Sitemap: https://webrelay.cn/sitemap.xml
+Sitemap: https://webrelay.cn/baidusitemap.xml
