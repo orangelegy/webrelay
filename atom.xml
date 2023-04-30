@@ -6,7 +6,7 @@
   <link href="https://webrelay.cn/atom.xml" rel="self"/>
   
   <link href="https://webrelay.cn/"/>
-  <updated>2023-04-29T14:44:13.760Z</updated>
+  <updated>2023-04-30T03:37:47.197Z</updated>
   <id>https://webrelay.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://webrelay.cn/2023/chrome-dino/"/>
     <id>https://webrelay.cn/2023/chrome-dino/</id>
     <published>2023-04-29T14:23:00.000Z</published>
-    <updated>2023-04-29T14:44:13.760Z</updated>
+    <updated>2023-04-30T03:37:47.197Z</updated>
     
     <content type="html"><![CDATA[<p>Chrome Dino是Google Chrome浏览器的一个小游戏，也称为“恐龙游戏”或“恐龙冲刺”。这个游戏最初在2014年由一组谷歌开发者创建，旨在提供在没有网络连接时的娱乐。当用户的设备无法连接到互联网时，游戏会自动启动。玩家需要控制一只小恐龙跳过障碍物，并收集游戏中的奖励。游戏的难度逐渐增加，使得游戏变得更加具有挑战性。它已经成为了一种文化现象，甚至有很多人专门为其建立了DIY硬件，从而将其带入了现实生活。</p><span id="more"></span><blockquote><p>传送门：<a href="chrome://dino/">chrome://dino/</a>（Chrome浏览器中打开）</p></blockquote><p><img src="https://pic.webrelay.cn/img/202304292225929.png" alt="" /></p>]]></content>
     
@@ -33,9 +33,9 @@
     <category term="在线游戏" scheme="https://webrelay.cn/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
     
     
-    <category term="Chrome" scheme="https://webrelay.cn/tags/Chrome/"/>
-    
     <category term="Google" scheme="https://webrelay.cn/tags/Google/"/>
+    
+    <category term="Chrome" scheme="https://webrelay.cn/tags/Chrome/"/>
     
   </entry>
   
