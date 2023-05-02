@@ -6,7 +6,7 @@
   <link href="https://webrelay.cn/atom.xml" rel="self"/>
   
   <link href="https://webrelay.cn/"/>
-  <updated>2023-05-02T09:06:07.285Z</updated>
+  <updated>2023-05-02T14:08:21.090Z</updated>
   <id>https://webrelay.cn/</id>
   
   <author>
@@ -17,13 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>TypeRacer - 打字竞速</title>
+    <link href="https://webrelay.cn/2023/typeracer/"/>
+    <id>https://webrelay.cn/2023/typeracer/</id>
+    <published>2023-05-02T12:17:49.000Z</published>
+    <updated>2023-05-02T14:08:21.090Z</updated>
+    
+    <content type="html"><![CDATA[<p>Typeracer是一个在线打字比赛的网站，为用户提供一个练习和比赛打字速度的平台。该网站提供各种类型的文本练习，可用于提高打字速度和准确性。用户可以选择不同的语言和难度等级进行练习。在比赛时，用户可以与其他用户竞争，在限定时间内尽可能快地打出一段文本内容。</p><span id="more"></span><blockquote><p>传送门：<a href="https://play.typeracer.com/">https://play.typeracer.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/typeracer.png" alt="" /></p><p>Typeracer的运作方式非常简单。用户只需要在打字面板中输入文本内容并按下空格键来开始比赛，Typeracer会记录完成时间、速度、准确性和错误次数等细节并打印出比赛结果。</p><p><img src="https://pic.webrelay.cn/img/typeracer1.png" alt="" /></p><p>Typeracer还提供了一些其他有用的功能，如排行榜、个人记录、比赛历史和朋友列表等。在排行榜上，用户可以查看自己的位置并与其他用户进行比较。个人记录则可以让用户跟踪自己的成长和进步。比赛历史和朋友列表则可以帮助用户在社交圈中了解其他人的表现和比赛状态。</p><p>总的来说，Typeracer是一个非常有趣和挑战性的网站，有助于用户提高打字速度和准确性，并提供一个有趣和富有竞争的社交平台。无论你是想简单地练习打字还是想在比赛中展示自己的技能，Typeracer都是你的最佳选择。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Typeracer是一个在线打字比赛的网站，为用户提供一个练习和比赛打字速度的平台。该网站提供各种类型的文本练习，可用于提高打字速度和准确性。用户可以选择不同的语言和难度等级进行练习。在比赛时，用户可以与其他用户竞争，在限定时间内尽可能快地打出一段文本内容。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="打字" scheme="https://webrelay.cn/tags/%E6%89%93%E5%AD%97/"/>
+    
+    <category term="比赛" scheme="https://webrelay.cn/tags/%E6%AF%94%E8%B5%9B/"/>
+    
+    <category term="竞速" scheme="https://webrelay.cn/tags/%E7%AB%9E%E9%80%9F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>HotBox - 资源在线下载</title>
     <link href="https://webrelay.cn/2023/hotbox/"/>
     <id>https://webrelay.cn/2023/hotbox/</id>
     <published>2023-05-02T08:27:32.000Z</published>
-    <updated>2023-05-02T09:06:07.285Z</updated>
+    <updated>2023-05-02T15:59:34.525Z</updated>
     
-    <content type="html"><![CDATA[<p>Hotbox是一个支持BT下载、磁力下载、HTTP文件下载和流媒体下载的在线下载服务。它通过对下载链接解析后，先下载文件到hotbox服务器，然后在将文件高速下载到本地设备。使用方法非常简单，只需将目标链接粘贴到对应的文本框，稍等几秒解析成功后，选择视频文件的质量或格式，点击下载，轻松三步即可完成下载。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.hotbox.fun/">https://www.hotbox.fun/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/hotbox1.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/hotbox2.png" alt="" /></p><p>流媒体下载功能支持国内外众多知名平台，比如国外的YouTube，Facebook，Vimeo等，还有国内的爱奇艺、bilibili、抖音等主流的视频分享网站，都可以免费解析并下载。</p>]]></content>
+    <content type="html"><![CDATA[<p>Hotbox是一个支持BT下载、磁力下载、HTTP文件下载和流媒体下载的在线下载服务。它通过对下载链接解析后，先下载文件到hotbox服务器，然后在将文件高速下载到本地设备。使用方法非常简单，只需将目标链接粘贴到对应的文本框，稍等几秒解析成功后，选择视频文件的质量或格式，点击下载，轻松三步即可完成下载。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.hotbox.fun/">https://www.hotbox.fun/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/hotbox.png" alt="" /></p><p>流媒体下载功能支持国内外众多知名平台，比如国外的YouTube，Facebook，Vimeo等，还有国内的爱奇艺、bilibili、抖音等主流的视频分享网站，都可以免费解析并下载。</p><p><img src="https://pic.webrelay.cn/img/hotbox1.png" alt="" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;Hotbox是一个支持BT下载、磁力下载、HTTP文件下载和流媒体下载的在线下载服务。它通过对下载链接解析后，先下载文件到hotbox服务器，然后在将文件高速下载到本地设备。使用方法非常简单，只需将目标链接粘贴到对应的文本框，稍等几秒解析成功后，选择视频文件的质量或格式，点击下载，轻松三步即可完成下载。&lt;/p&gt;</summary>
@@ -48,9 +73,9 @@
     <link href="https://webrelay.cn/2023/chrome-dino/"/>
     <id>https://webrelay.cn/2023/chrome-dino/</id>
     <published>2023-04-29T14:23:00.000Z</published>
-    <updated>2023-04-30T03:37:47.197Z</updated>
+    <updated>2023-05-02T13:25:46.800Z</updated>
     
-    <content type="html"><![CDATA[<p>Chrome Dino是Google Chrome浏览器的一个小游戏，也称为“恐龙游戏”或“恐龙冲刺”。这个游戏最初在2014年由一组谷歌开发者创建，旨在提供在没有网络连接时的娱乐。当用户的设备无法连接到互联网时，游戏会自动启动。玩家需要控制一只小恐龙跳过障碍物，并收集游戏中的奖励。游戏的难度逐渐增加，使得游戏变得更加具有挑战性。它已经成为了一种文化现象，甚至有很多人专门为其建立了DIY硬件，从而将其带入了现实生活。</p><span id="more"></span><blockquote><p>传送门：<a href="chrome://dino/">chrome://dino/</a>（Chrome浏览器中打开）</p></blockquote><p><img src="https://pic.webrelay.cn/img/202304292225929.png" alt="" /></p>]]></content>
+    <content type="html"><![CDATA[<p>Chrome Dino是Google Chrome浏览器的一个小游戏，也称为“恐龙游戏”或“恐龙冲刺”。这个游戏最初在2014年由一组谷歌开发者创建，旨在提供在没有网络连接时的娱乐。当用户的设备无法连接到互联网时，游戏会自动启动。玩家需要控制一只小恐龙跳过障碍物，并收集游戏中的奖励。游戏的难度逐渐增加，使得游戏变得更加具有挑战性。它已经成为了一种文化现象，甚至有很多人专门为其建立了DIY硬件，从而将其带入了现实生活。</p><span id="more"></span><blockquote><p>传送门：<a href="chrome://dino/">chrome://dino/</a>（Chrome浏览器中打开）</p></blockquote><p><img src="https://pic.webrelay.cn/img/chrome-dino.png" alt="" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;Chrome Dino是Google Chrome浏览器的一个小游戏，也称为“恐龙游戏”或“恐龙冲刺”。这个游戏最初在2014年由一组谷歌开发者创建，旨在提供在没有网络连接时的娱乐。当用户的设备无法连接到互联网时，游戏会自动启动。玩家需要控制一只小恐龙跳过障碍物，并收集游戏中的奖励。游戏的难度逐渐增加，使得游戏变得更加具有挑战性。它已经成为了一种文化现象，甚至有很多人专门为其建立了DIY硬件，从而将其带入了现实生活。&lt;/p&gt;</summary>
@@ -71,9 +96,9 @@
     <link href="https://webrelay.cn/2023/z-library/"/>
     <id>https://webrelay.cn/2023/z-library/</id>
     <published>2023-04-29T13:56:12.000Z</published>
-    <updated>2023-05-02T09:39:06.131Z</updated>
+    <updated>2023-05-02T16:06:26.558Z</updated>
     
-    <content type="html"><![CDATA[<p>Z-Library是一个非常优秀的电子图书馆，它提供大量免费电子书的下载，其收藏包括数亿种电子书、文章、期刊等多种文献资源。这个网站的特点是存书量巨大、免费下载和下载速度快，用户可以根据书名、作者、主题或ISBN号来搜索需要的资料。</p><span id="more"></span><blockquote><p>传送门：<a href="https://singlelogin.me/">https://singlelogin.me/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/202304292211490.png" alt="" /></p><p>Z-Library成立于2009年，是一个非营利性的数字图书馆项目。现在，它已经成为了全球最大的数字图书馆之一。它的目标是让每个人都可以自由地获取知识。因此，这个网站提供了免费下载电子书、学术论文和期刊等多种资源的服务，任何人都可以不用注册就可以使用。</p><p>Z-Library拥有一个巨大的藏书，其中包括1千多万本电子书和将近1亿篇学术文章，并且每天还会不断增加。您可以找到各种学科领域的书籍，如人文社科、自然科学、技术工程等。这些书籍不仅包括最新出版的著作，还有一些经典的文献。而且这些书籍的质量也很高，绝大部分都是扫描版的书籍，排版清晰、文字清晰可见，方便用户进行阅读和学习。</p><p>用户可以通过搜索功能查找自己需要的书籍或者文章。同时，Z-Library也提供了一些特色功能，比如可以按照语言、出版日期、类别、出版社等多种方式对搜索结果进行筛选，以便用户能够快速找到自己想要的内容。</p><p>除了搜索功能，Z-Library还提供了一些其他的功能，例如您可以将自己喜欢的书籍收藏起来，方便下次查找。此外，该网站还提供了很多用户评论和评分，可以帮助用户更好地了解某本书的质量。如果您喜欢分享，这里也是一个非常好的平台，您可以上传自己的书籍或文章，与其他用户共享。</p><p>总之，Z-Library是一个非常优秀的数字图书馆，为广大读者提供了免费、高质量的学术资源下载服务，适合于需要大量素材的学生、教师、研究人员和专业人士使用。</p><blockquote><p>另外我注意到Z-Library项目博客一篇全球统计的文章，有趣的是，保守统计中国的用户不仅是最多的并且贡献量遥遥领先。其中中国的5所高校（北京大学、浙江大学、复旦大学、中国科学技术大学、清华大学）贡献量最高，与第二名相差超四倍。</p><p>相关链接：<a href="https://lib-tspcs6owa5qtp5jr3ii4b6jb.resist.tel/blog/40">Worldwide Statistics: How Students and Educators Use Z-Library</a></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<p>Z-Library是一个非常优秀的电子图书馆，它提供大量免费电子书的下载，其收藏包括数亿种电子书、文章、期刊等多种文献资源。这个网站的特点是存书量巨大、免费下载和下载速度快，用户可以根据书名、作者、主题或ISBN号来搜索需要的资料。</p><span id="more"></span><blockquote><p>传送门：<a href="https://singlelogin.me/">https://singlelogin.me/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/zlibrary.png" alt="" /></p><p>Z-Library成立于2009年，是一个非营利性的数字图书馆项目。现在，它已经成为了全球最大的数字图书馆之一。它的目标是让每个人都可以自由地获取知识。因此，这个网站提供了免费下载电子书、学术论文和期刊等多种资源的服务，任何人都可以不用注册就可以使用。</p><p>Z-Library拥有一个巨大的藏书，其中包括1千多万本电子书和将近1亿篇学术文章，并且每天还会不断增加。您可以找到各种学科领域的书籍，如人文社科、自然科学、技术工程等。这些书籍不仅包括最新出版的著作，还有一些经典的文献。而且这些书籍的质量也很高，绝大部分都是扫描版的书籍，排版清晰、文字清晰可见，方便用户进行阅读和学习。</p><p>用户可以通过搜索功能查找自己需要的书籍或者文章。同时，Z-Library也提供了一些特色功能，比如可以按照语言、出版日期、类别、出版社等多种方式对搜索结果进行筛选，以便用户能够快速找到自己想要的内容。</p><p><img src="https://pic.webrelay.cn/img/zlibrary1.png" alt="" /></p><p>除了搜索功能，Z-Library还提供了一些其他的功能，例如您可以将自己喜欢的书籍收藏起来，方便下次查找。此外，该网站还提供了很多用户评论和评分，可以帮助用户更好地了解某本书的质量。如果您喜欢分享，这里也是一个非常好的平台，您可以上传自己的书籍或文章，与其他用户共享。</p><p>总之，Z-Library是一个非常优秀的数字图书馆，为广大读者提供了免费、高质量的学术资源下载服务，适合于需要大量素材的学生、教师、研究人员和专业人士使用。</p><blockquote><p>另外我注意到Z-Library项目博客一篇全球统计的文章，有趣的是，保守统计中国的用户不仅是最多的并且贡献量遥遥领先。其中中国的5所高校（北京大学、浙江大学、复旦大学、中国科学技术大学、清华大学）贡献量最高，与第二名相差超四倍。</p><p>相关链接：<a href="https://lib-tspcs6owa5qtp5jr3ii4b6jb.resist.tel/blog/40">Worldwide Statistics: How Students and Educators Use Z-Library</a></p></blockquote>]]></content>
     
     
     <summary type="html">&lt;p&gt;Z-Library是一个非常优秀的电子图书馆，它提供大量免费电子书的下载，其收藏包括数亿种电子书、文章、期刊等多种文献资源。这个网站的特点是存书量巨大、免费下载和下载速度快，用户可以根据书名、作者、主题或ISBN号来搜索需要的资料。&lt;/p&gt;</summary>
@@ -96,9 +121,9 @@
     <link href="https://webrelay.cn/2023/gaodingps/"/>
     <id>https://webrelay.cn/2023/gaodingps/</id>
     <published>2023-04-12T14:46:06.000Z</published>
-    <updated>2023-05-02T09:10:12.243Z</updated>
+    <updated>2023-05-02T13:25:38.198Z</updated>
     
-    <content type="html"><![CDATA[<p>稿定PS是一个在线的图像处理平台，可以帮助用户快速、方便地进行图像编辑和设计。它提供了丰富的工具和功能，包括基本的剪裁、旋转、缩放、调整亮度、对比度、饱和度等颜色调整功能，以及复杂的图层操作、滤镜和磨皮模糊等高级功能。用户可以使用这些工具和功能来自由地编辑、设计、美化和优化图像。</p><span id="more"></span><blockquote><p>传送门：<a href="https://ps.gaoding.com/">https://ps.gaoding.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230412224851173.png" alt="" /></p><p>此外，稿定PS还提供了丰富的模板库和素材库，包括海报、名片、众筹海报、营销广告、社交媒体封面等各种类型的模板和素材，用户可以根据自己的需求进行选择和使用。用户可以免费使用稿定PS进行编辑和设计，也可以选择付费解锁更多高级功能和素材库。总之，稿定PS是一个完全在线的、易于使用和功能丰富的图像处理平台，适合各种用户进行图像编辑和设计。</p><p><img src="https://pic.webrelay.cn/img/202304132357536.png" alt="" /></p>]]></content>
+    <content type="html"><![CDATA[<p>稿定PS是一个在线的图像处理平台，可以帮助用户快速、方便地进行图像编辑和设计。它提供了丰富的工具和功能，包括基本的剪裁、旋转、缩放、调整亮度、对比度、饱和度等颜色调整功能，以及复杂的图层操作、滤镜和磨皮模糊等高级功能。用户可以使用这些工具和功能来自由地编辑、设计、美化和优化图像。</p><span id="more"></span><blockquote><p>传送门：<a href="https://ps.gaoding.com/">https://ps.gaoding.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/gaodingps.png" alt="" /></p><p>此外，稿定PS还提供了丰富的模板库和素材库，包括海报、名片、众筹海报、营销广告、社交媒体封面等各种类型的模板和素材，用户可以根据自己的需求进行选择和使用。用户可以免费使用稿定PS进行编辑和设计，也可以选择付费解锁更多高级功能和素材库。总之，稿定PS是一个完全在线的、易于使用和功能丰富的图像处理平台，适合各种用户进行图像编辑和设计。</p><p><img src="https://pic.webrelay.cn/img/gaodingps1.png" alt="" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;稿定PS是一个在线的图像处理平台，可以帮助用户快速、方便地进行图像编辑和设计。它提供了丰富的工具和功能，包括基本的剪裁、旋转、缩放、调整亮度、对比度、饱和度等颜色调整功能，以及复杂的图层操作、滤镜和磨皮模糊等高级功能。用户可以使用这些工具和功能来自由地编辑、设计、美化和优化图像。&lt;/p&gt;</summary>
@@ -121,9 +146,9 @@
     <link href="https://webrelay.cn/2023/magiceraser/"/>
     <id>https://webrelay.cn/2023/magiceraser/</id>
     <published>2023-04-12T14:28:52.000Z</published>
-    <updated>2023-05-02T09:10:28.286Z</updated>
+    <updated>2023-05-02T16:07:08.250Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>Magic Eraser</strong> 是一个基于人工智能技术的在线图像去背景工具。网站无需注册，它可以自动分离图片的前景和背景，让用户轻松地将前景从背景中分离出来。Magic Eraser可以应用于各种场景，例如在产品展示中去除非白色背景、制作海报和广告中的复合图像等。</p><span id="more"></span><blockquote><p>传送门：<a href="https://magicstudio.com/zh/magiceraser">https://magicstudio.com/zh/magiceraser</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230412223855157.png" alt="" /></p><p>使用Magic Eraser非常简单，只需上传一张需要去除背景的图片，然后点击“Erase”按钮，Magic Eraser就会自动分离前景和背景。分离完成后，用户可以选择保存分离后的前景图像，或者将前景图像与其他背景进行复合。Magic Eraser 还提供了一些高级功能，比如可以对分离后的前景进行调整，提高图像质量等。</p><p>Magic Eraser的基本功能是免费的，但用户也可以选择订阅付费服务，以获取更高级的功能和更高的图像处理质量。</p><p>总之，Magic Eraser 是一款方便易用的在线图像处理工具，可以帮助用户快速去除背景，实现高质量的图像处理。</p><ul><li>示例：</li></ul><p><img src="https://pic.webrelay.cn/img/image-20230412224039953.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/image-20230412224140318.png" alt="" /></p><p>效果真的很惊艳，而且无需注册就能用。</p>]]></content>
+    <content type="html"><![CDATA[<p><strong>Magic Eraser</strong> 是一个基于人工智能技术的在线图像去背景工具。网站无需注册，它可以自动分离图片的前景和背景，让用户轻松地将前景从背景中分离出来。Magic Eraser可以应用于各种场景，例如在产品展示中去除非白色背景、制作海报和广告中的复合图像等。</p><span id="more"></span><blockquote><p>传送门：<a href="https://magicstudio.com/zh/magiceraser">https://magicstudio.com/zh/magiceraser</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/magiceraser.png" alt="" /></p><p>使用Magic Eraser非常简单，只需上传一张需要去除背景的图片，然后点击“Erase”按钮，Magic Eraser就会自动分离前景和背景。分离完成后，用户可以选择保存分离后的前景图像，或者将前景图像与其他背景进行复合。Magic Eraser 还提供了一些高级功能，比如可以对分离后的前景进行调整，提高图像质量等。</p><p>Magic Eraser的基本功能是免费的，但用户也可以选择订阅付费服务，以获取更高级的功能和更高的图像处理质量。</p><p>总之，Magic Eraser 是一款方便易用的在线图像处理工具，可以帮助用户快速去除背景，实现高质量的图像处理。</p><ul><li>示例：</li></ul><p><img src="https://pic.webrelay.cn/img/magiceraser1.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/magiceraser2.png" alt="" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;Magic Eraser&lt;/strong&gt; 是一个基于人工智能技术的在线图像去背景工具。网站无需注册，它可以自动分离图片的前景和背景，让用户轻松地将前景从背景中分离出来。Magic Eraser可以应用于各种场景，例如在产品展示中去除非白色背景、制作海报和广告中的复合图像等。&lt;/p&gt;</summary>
@@ -133,9 +158,9 @@
     <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="✈️" scheme="https://webrelay.cn/tags/%E2%9C%88%EF%B8%8F/"/>
-    
     <category term="图片处理" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+    
+    <category term="✈️" scheme="https://webrelay.cn/tags/%E2%9C%88%EF%B8%8F/"/>
     
     <category term="抠图" scheme="https://webrelay.cn/tags/%E6%8A%A0%E5%9B%BE/"/>
     
@@ -146,9 +171,9 @@
     <link href="https://webrelay.cn/2023/pintuxia/"/>
     <id>https://webrelay.cn/2023/pintuxia/</id>
     <published>2023-04-12T13:06:39.000Z</published>
-    <updated>2023-04-13T15:47:45.961Z</updated>
+    <updated>2023-05-02T13:27:49.390Z</updated>
     
-    <content type="html"><![CDATA[<p>拼图侠是一个在线生成拼图的网站。您可以在该网站上免费制作拼图，打乱拼图，显示原图，分享地址等。</p><span id="more"></span><blockquote><p>传送门：<a href="http://pintuxia.com/">http://pintuxia.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/202304122201598.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/202304122203148.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/202304122203849.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/202304122203170.png" alt="" /></p><p>我选了一张比较难的图，也是我的壁纸，选的一百多片，花了将近一个小时才拼好。仿佛回到了童年，又认真又开心。唯一比较可惜的就是国内无法访问，需要一定门槛。</p><p>下面是原图：</p><p><img src="https://pic.webrelay.cn/img/wallhaven-vmk7em.jpg" alt="" /></p>]]></content>
+    <content type="html"><![CDATA[<p>拼图侠是一个在线生成拼图的网站。您可以在该网站上免费制作拼图，打乱拼图，显示原图，分享地址等。</p><span id="more"></span><blockquote><p>传送门：<a href="http://pintuxia.com/">http://pintuxia.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/pintuxia.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/pintuxia1.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/pintuxia2.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/pintuxia3.png" alt="" /></p><p>我选了一张比较难的图，也是我的壁纸，选的一百多片，花了将近一个小时才拼好。仿佛回到了童年，又认真又开心。唯一比较可惜的就是国内无法访问，需要一定门槛。</p><p>下面是原图：</p><p><img src="https://pic.webrelay.cn/img/wallhaven-vmk7em.jpg" alt="" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;拼图侠是一个在线生成拼图的网站。您可以在该网站上免费制作拼图，打乱拼图，显示原图，分享地址等。&lt;/p&gt;</summary>
@@ -171,9 +196,9 @@
     <link href="https://webrelay.cn/2023/ciying/"/>
     <id>https://webrelay.cn/2023/ciying/</id>
     <published>2023-04-09T13:23:35.000Z</published>
-    <updated>2023-05-02T09:11:35.181Z</updated>
+    <updated>2023-05-02T13:28:07.925Z</updated>
     
-    <content type="html"><![CDATA[<p>词影跟之前推荐的汉兜（Handle）玩法类似，不过汉兜是通过拼音猜成语，而词影是一款将象形汉字与Wordle猜测结合起来的猜成语小游戏。欢迎大家试玩。</p><span id="more"></span><blockquote><p>传送门：<a href="https://cy.surprising.studio/">https://cy.surprising.studio/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230409212753167.png" alt="" /></p><ul><li>教程：</li></ul><p><img src="https://pic.webrelay.cn/img/image-20230409212950754.png" alt="" /></p><p>不要被教程劝退，一看就废，一玩就会！</p>]]></content>
+    <content type="html"><![CDATA[<p>词影跟之前推荐的汉兜（Handle）玩法类似，不过汉兜是通过拼音猜成语，而词影是一款将象形汉字与Wordle猜测结合起来的猜成语小游戏。欢迎大家试玩。</p><span id="more"></span><blockquote><p>传送门：<a href="https://cy.surprising.studio/">https://cy.surprising.studio/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/ciying.png" alt="" /></p><ul><li>教程：</li></ul><p><img src="https://pic.webrelay.cn/img/ciying1.png" alt="" /></p><p>不要被教程劝退，一看就废，一玩就会！</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;词影跟之前推荐的汉兜（Handle）玩法类似，不过汉兜是通过拼音猜成语，而词影是一款将象形汉字与Wordle猜测结合起来的猜成语小游戏。欢迎大家试玩。&lt;/p&gt;</summary>
@@ -198,9 +223,9 @@
     <link href="https://webrelay.cn/2023/speedtest/"/>
     <id>https://webrelay.cn/2023/speedtest/</id>
     <published>2023-04-09T13:14:53.000Z</published>
-    <updated>2023-05-02T09:08:05.498Z</updated>
+    <updated>2023-05-02T13:28:31.541Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>Speedtest</strong> 是一个专业的测速网站，它提供了网速测试、网络质量测试、宽带测速、Wi-Fi测速、5G测速、IPv6测速、带宽检测、路由器测速、网关测速、宽带提速、宽带升级、网络加速、内网测速、专网测速、视频测试、游戏测速和直播测速等服务¹。您可以在Speedtest.cn上进行各种类型的网络测试。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.speedtest.cn/">https://www.speedtest.cn/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230409211718592.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/image-20230409211830330.png" alt="" /></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>Speedtest</strong> 是一个专业的测速网站，它提供了网速测试、网络质量测试、宽带测速、Wi-Fi测速、5G测速、IPv6测速、带宽检测、路由器测速、网关测速、宽带提速、宽带升级、网络加速、内网测速、专网测速、视频测试、游戏测速和直播测速等服务¹。您可以在Speedtest.cn上进行各种类型的网络测试。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.speedtest.cn/">https://www.speedtest.cn/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/speedtest.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/speedtest1.png" alt="" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;Speedtest&lt;/strong&gt; 是一个专业的测速网站，它提供了网速测试、网络质量测试、宽带测速、Wi-Fi测速、5G测速、IPv6测速、带宽检测、路由器测速、网关测速、宽带提速、宽带升级、网络加速、内网测速、专网测速、视频测试、游戏测速和直播测速等服务¹。您可以在Speedtest.cn上进行各种类型的网络测试。&lt;/p&gt;</summary>
@@ -221,9 +246,9 @@
     <link href="https://webrelay.cn/2023/removebg/"/>
     <id>https://webrelay.cn/2023/removebg/</id>
     <published>2023-04-09T13:02:37.000Z</published>
-    <updated>2023-05-02T09:38:33.668Z</updated>
+    <updated>2023-05-02T13:29:08.845Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>removebg</strong> 是一个可以在线抠图的网站。它通过AI识别出人物背景，自动抠图，生成透明选区，可以自己按需求选择适合的背景。它能够在几秒钟内帮你去掉背景留下主题，得到一张透明背景的照片。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.remove.bg/">https://www.remove.bg/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230409210429732.png" alt="" /></p><p>原始图：</p><p><img src="https://pic.webrelay.cn/img/image-20230409210852310.png" alt="" /></p><p>已消除背景：</p><p><img src="https://pic.webrelay.cn/img/image-20230409210932842.png" alt="" /></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>removebg</strong> 是一个可以在线抠图的网站。它通过AI识别出人物背景，自动抠图，生成透明选区，可以自己按需求选择适合的背景。它能够在几秒钟内帮你去掉背景留下主题，得到一张透明背景的照片。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.remove.bg/">https://www.remove.bg/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/removebg.png" alt="" /></p><p>原始图：</p><p><img src="https://pic.webrelay.cn/img/removebg1.png" alt="" /></p><p>已消除背景：</p><p><img src="https://pic.webrelay.cn/img/removebg2.png" alt="" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;removebg&lt;/strong&gt; 是一个可以在线抠图的网站。它通过AI识别出人物背景，自动抠图，生成透明选区，可以自己按需求选择适合的背景。它能够在几秒钟内帮你去掉背景留下主题，得到一张透明背景的照片。&lt;/p&gt;</summary>
@@ -244,9 +269,9 @@
     <link href="https://webrelay.cn/2023/logonews/"/>
     <id>https://webrelay.cn/2023/logonews/</id>
     <published>2023-04-09T12:55:16.000Z</published>
-    <updated>2023-05-02T09:11:08.800Z</updated>
+    <updated>2023-05-02T13:29:30.869Z</updated>
     
-    <content type="html"><![CDATA[<p>标志情报局是一个专注于品牌标志资讯报道的网站。它的主要目的是第一时间更新一切有关Logo的新闻，趣事，讨论等信息。它自上线以来，已经累积报道过7000多家换标企业的相关案例资讯。标志情报局的坚持获得了大量业内人士的肯定与支持。现如今，标志情报局已经不仅仅只是一个获取品牌资讯的平台，而是以新品牌资讯、品牌标志类图书、品牌标志类资源、设计行业招聘求职为一体的专业性站点。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.logonews.cn/">https://www.logonews.cn/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230409205902949.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/image-20230409205750833.png" alt="" /></p>]]></content>
+    <content type="html"><![CDATA[<p>标志情报局是一个专注于品牌标志资讯报道的网站。它的主要目的是第一时间更新一切有关Logo的新闻，趣事，讨论等信息。它自上线以来，已经累积报道过7000多家换标企业的相关案例资讯。标志情报局的坚持获得了大量业内人士的肯定与支持。现如今，标志情报局已经不仅仅只是一个获取品牌资讯的平台，而是以新品牌资讯、品牌标志类图书、品牌标志类资源、设计行业招聘求职为一体的专业性站点。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.logonews.cn/">https://www.logonews.cn/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/logonews.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/logonews1.png" alt="" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;标志情报局是一个专注于品牌标志资讯报道的网站。它的主要目的是第一时间更新一切有关Logo的新闻，趣事，讨论等信息。它自上线以来，已经累积报道过7000多家换标企业的相关案例资讯。标志情报局的坚持获得了大量业内人士的肯定与支持。现如今，标志情报局已经不仅仅只是一个获取品牌资讯的平台，而是以新品牌资讯、品牌标志类图书、品牌标志类资源、设计行业招聘求职为一体的专业性站点。&lt;/p&gt;</summary>
@@ -271,9 +296,9 @@
     <link href="https://webrelay.cn/2023/cbpm/"/>
     <id>https://webrelay.cn/2023/cbpm/</id>
     <published>2023-04-09T12:41:25.000Z</published>
-    <updated>2023-05-02T09:11:14.046Z</updated>
+    <updated>2023-05-02T15:52:18.297Z</updated>
     
-    <content type="html"><![CDATA[<p>中国印钞造币集团有限公司官网上的人民币图样库包括了各套人民币的图样。您可以在官网上浏览各套人民币的图样，了解人民币的历史和发展。</p><span id="more"></span><blockquote><p>传送门：<a href="http://www.cbpm.cn/">http://www.cbpm.cn/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230409204202859.png" alt="" /></p><p>中国印钞造币公司官网上也有纪念钞的图样库，其中包括了第24届冬季奥林匹克运动会纪念钞、人民币发行70周年纪念钞、中国航天纪念钞、第29届奥林匹克运动会纪念钞等多种纪念钞以及纪念币的图样。</p><p><img src="https://pic.webrelay.cn/img/image-20230409204520573.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/image-20230409204552974.png" alt="" /></p>]]></content>
+    <content type="html"><![CDATA[<p>中国印钞造币集团有限公司官网上的人民币图样库包括了各套人民币的图样。您可以在官网上浏览各套人民币的图样，了解人民币的历史和发展。</p><span id="more"></span><blockquote><p>传送门：<a href="http://www.cbpm.cn/">http://www.cbpm.cn/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/cbpm.png" alt="" /></p><p>中国印钞造币公司官网上也有纪念钞的图样库，其中包括了第24届冬季奥林匹克运动会纪念钞、人民币发行70周年纪念钞、中国航天纪念钞、第29届奥林匹克运动会纪念钞等多种纪念钞以及纪念币的图样。</p><p><img src="https://pic.webrelay.cn/img/cbpm1.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/cbpm2.png" alt="" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;中国印钞造币集团有限公司官网上的人民币图样库包括了各套人民币的图样。您可以在官网上浏览各套人民币的图样，了解人民币的历史和发展。&lt;/p&gt;</summary>
@@ -300,9 +325,9 @@
     <link href="https://webrelay.cn/2023/handle/"/>
     <id>https://webrelay.cn/2023/handle/</id>
     <published>2023-04-08T16:50:58.000Z</published>
-    <updated>2023-05-02T09:11:27.784Z</updated>
+    <updated>2023-05-02T13:30:21.586Z</updated>
     
-    <content type="html"><![CDATA[<p>汉兜是一个盲猜成语的游戏，类似于国外的 Wordle 猜单词游戏，但更适合我们玩。网站将每个汉字拆分成汉字、声母、韵母、声调四个部分，猜对的部分会变色，自己接着猜就行，每个成语有十次机会。这个游戏很有趣，你可以去尝试一下。😊</p><span id="more"></span><blockquote><p>传送门：<a href="https://handle.antfu.me/">https://handle.antfu.me/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230409005437517.png" alt="" /></p><p>最后一次机会猜对了，一天只开放一题</p><p><img src="https://pic.webrelay.cn/img/image-20230409010413746.png" alt="" /></p>]]></content>
+    <content type="html"><![CDATA[<p>汉兜是一个盲猜成语的游戏，类似于国外的 Wordle 猜单词游戏，但更适合我们玩。网站将每个汉字拆分成汉字、声母、韵母、声调四个部分，猜对的部分会变色，自己接着猜就行，每个成语有十次机会。这个游戏很有趣，你可以去尝试一下。😊</p><span id="more"></span><blockquote><p>传送门：<a href="https://handle.antfu.me/">https://handle.antfu.me/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/handle.png" alt="" /></p><p>最后一次机会猜对了，一天只开放一题</p><p><img src="https://pic.webrelay.cn/img/handle1.png" alt="" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;汉兜是一个盲猜成语的游戏，类似于国外的 Wordle 猜单词游戏，但更适合我们玩。网站将每个汉字拆分成汉字、声母、韵母、声调四个部分，猜对的部分会变色，自己接着猜就行，每个成语有十次机会。这个游戏很有趣，你可以去尝试一下。😊&lt;/p&gt;</summary>
@@ -327,9 +352,9 @@
     <link href="https://webrelay.cn/2023/startallback/"/>
     <id>https://webrelay.cn/2023/startallback/</id>
     <published>2023-04-07T04:34:53.000Z</published>
-    <updated>2023-05-02T09:09:18.627Z</updated>
+    <updated>2023-05-02T13:30:59.498Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>StartAllBack</strong> 是一款可以让Windows任务栏变得更美化的软件。该软件可以让您自由调整任务栏的样式，可以更改任务栏背景、透明度、图标大小以及文本、图标的颜色等等。StartAllBack的UI界面非常简洁，方便用户使用，可以帮助用户打造属于自己的个性化任务栏。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.startallback.com/">https://www.startallback.com/</a></p><p>破解版：<a href="https://wws.lanzoui.com/b026kg6lc">https://wws.lanzoui.com/b026kg6lc</a>密码：<code>a49j</code></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230407124028777.png" alt="" /></p><p>需要注意的是，StartAllBack是第三方软件，如果您想要使用，需要在官方网站进行下载，并注意防止下载到恶意软件或病毒。同时，类似于浏览器插件等个性化工具，使用前需要仔细核对权限和风险，以防止泄露用户隐私或出现其他不良情况。</p><hr /><p>原版：</p><p><img src="https://pic.webrelay.cn/img/image-20230407124710347.png" alt="" /></p><p>美化后：</p><p><img src="https://pic.webrelay.cn/img/image-20230407124446575.png" alt="" /></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>StartAllBack</strong> 是一款可以让Windows任务栏变得更美化的软件。该软件可以让您自由调整任务栏的样式，可以更改任务栏背景、透明度、图标大小以及文本、图标的颜色等等。StartAllBack的UI界面非常简洁，方便用户使用，可以帮助用户打造属于自己的个性化任务栏。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.startallback.com/">https://www.startallback.com/</a></p><p>破解版：<a href="https://wws.lanzoui.com/b026kg6lc">https://wws.lanzoui.com/b026kg6lc</a>密码：<code>a49j</code></p></blockquote><p><img src="https://pic.webrelay.cn/img/startallback.png" alt="" /></p><p>需要注意的是，StartAllBack是第三方软件，如果您想要使用，需要在官方网站进行下载，并注意防止下载到恶意软件或病毒。同时，类似于浏览器插件等个性化工具，使用前需要仔细核对权限和风险，以防止泄露用户隐私或出现其他不良情况。</p><hr /><p>原版：</p><p><img src="https://pic.webrelay.cn/img/startallback1.png" alt="" /></p><p>美化后：</p><p><img src="https://pic.webrelay.cn/img/startallback2.png" alt="" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;StartAllBack&lt;/strong&gt; 是一款可以让Windows任务栏变得更美化的软件。该软件可以让您自由调整任务栏的样式，可以更改任务栏背景、透明度、图标大小以及文本、图标的颜色等等。StartAllBack的UI界面非常简洁，方便用户使用，可以帮助用户打造属于自己的个性化任务栏。&lt;/p&gt;</summary>
@@ -352,9 +377,9 @@
     <link href="https://webrelay.cn/2023/airportal/"/>
     <id>https://webrelay.cn/2023/airportal/</id>
     <published>2023-04-07T04:27:25.000Z</published>
-    <updated>2023-05-02T09:08:24.430Z</updated>
+    <updated>2023-05-02T13:31:17.970Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>AirPortal</strong> 是一个提供文件传输服务的在线网站。用户可以在该网站上上传文件，并生成一个取件码，将该取件码或二维码分享给他人，即可让他人下载该文件。</p><span id="more"></span><blockquote><p>传送门：<a href="https://airportal.cn/">https://airportal.cn/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230407122936504.png" alt="" /></p><p>AirPortal空投快传的界面简洁易用，具有优秀的操作体验。该网站的上传、下载速度较快，且不需要安装任何阅读器或插件，用户可以直接在浏览器中使用。</p><p>需要注意的是，在使用AirPortal空投快传之前，请仔细阅读其用户协议和隐私政策，并遵守相关法律法规和网站协议，不要传输违法内容。</p>]]></content>
+    <content type="html"><![CDATA[<p><strong>AirPortal</strong> 是一个提供文件传输服务的在线网站。用户可以在该网站上上传文件，并生成一个取件码，将该取件码或二维码分享给他人，即可让他人下载该文件。</p><span id="more"></span><blockquote><p>传送门：<a href="https://airportal.cn/">https://airportal.cn/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/airportal.png" alt="" /></p><p>AirPortal空投快传的界面简洁易用，具有优秀的操作体验。该网站的上传、下载速度较快，且不需要安装任何阅读器或插件，用户可以直接在浏览器中使用。</p><p>需要注意的是，在使用AirPortal空投快传之前，请仔细阅读其用户协议和隐私政策，并遵守相关法律法规和网站协议，不要传输违法内容。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;AirPortal&lt;/strong&gt; 是一个提供文件传输服务的在线网站。用户可以在该网站上上传文件，并生成一个取件码，将该取件码或二维码分享给他人，即可让他人下载该文件。&lt;/p&gt;</summary>
@@ -375,9 +400,9 @@
     <link href="https://webrelay.cn/2023/sms-activate/"/>
     <id>https://webrelay.cn/2023/sms-activate/</id>
     <published>2023-04-07T03:58:13.000Z</published>
-    <updated>2023-05-02T09:11:50.514Z</updated>
+    <updated>2023-05-02T13:31:33.030Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>SMS-Activate</strong> 是一个提供短信验证码接收服务的网站，用户可以在该网站上购买虚拟手机号或租用真实手机号，用于在各类应用或网站上接收验证码短信。该网站支持的网站或应用种类较广泛，包括但不限于社交媒体、电子商务、在线服务、金融业等。</p><span id="more"></span><blockquote><p>传送门：<a href="https://sms-activate.org/">https://sms-activate.org/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230407120235594.png" alt="" /></p><p>使用sms-activate，用户可以根据需要购买不同种类的虚拟手机号或真实手机号的租用服务，选择的套餐费用不同，使用不同手机号的收费也会有所区别。使用sms-activate接收到的短信验证码数量不限，但需要注意的是，该网站提供的虚拟手机号码可能会被应用或网站屏蔽，导致接收不到验证码。此外，使用sms-activate也需要注意不要将其用于非法活动，以免违法风险。</p>]]></content>
+    <content type="html"><![CDATA[<p><strong>SMS-Activate</strong> 是一个提供短信验证码接收服务的网站，用户可以在该网站上购买虚拟手机号或租用真实手机号，用于在各类应用或网站上接收验证码短信。该网站支持的网站或应用种类较广泛，包括但不限于社交媒体、电子商务、在线服务、金融业等。</p><span id="more"></span><blockquote><p>传送门：<a href="https://sms-activate.org/">https://sms-activate.org/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/sms-activate.png" alt="" /></p><p>使用sms-activate，用户可以根据需要购买不同种类的虚拟手机号或真实手机号的租用服务，选择的套餐费用不同，使用不同手机号的收费也会有所区别。使用sms-activate接收到的短信验证码数量不限，但需要注意的是，该网站提供的虚拟手机号码可能会被应用或网站屏蔽，导致接收不到验证码。此外，使用sms-activate也需要注意不要将其用于非法活动，以免违法风险。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;SMS-Activate&lt;/strong&gt; 是一个提供短信验证码接收服务的网站，用户可以在该网站上购买虚拟手机号或租用真实手机号，用于在各类应用或网站上接收验证码短信。该网站支持的网站或应用种类较广泛，包括但不限于社交媒体、电子商务、在线服务、金融业等。&lt;/p&gt;</summary>
@@ -398,9 +423,9 @@
     <link href="https://webrelay.cn/2023/tempmail/"/>
     <id>https://webrelay.cn/2023/tempmail/</id>
     <published>2023-04-07T03:50:12.000Z</published>
-    <updated>2023-05-02T09:08:30.373Z</updated>
+    <updated>2023-05-02T13:31:47.416Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>Temp Mail</strong> 是一个提供临时、一次性电子邮件地址的网站。用户可以在该网站上生成一个随机的邮箱地址，用于接收邮件，当用户不再需要这个邮箱地址时，可以直接关闭该页面，这个地址就会被永久删除并不可恢复。</p><span id="more"></span><blockquote><p>传送门：<a href="https://temp-mail.org/">https://temp-mail.org/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230407115155487.png" alt="" /></p><p>tempmail主要针对用户需要快速接收或发送一次性邮件的情况，例如注册网站、下载文件等需要使用电子邮件的情形。在使用tempmail时，用户无需填写个人真实姓名、电话号码等信息，有效避免因邮件泄露等而产生的个人隐私泄露风险。但需要注意的是，因为tempmail是一个公共的电子邮件地址，其他人也可以使用同样的地址，因此不适合用于重要、机密信息的传递。</p>]]></content>
+    <content type="html"><![CDATA[<p><strong>Temp Mail</strong> 是一个提供临时、一次性电子邮件地址的网站。用户可以在该网站上生成一个随机的邮箱地址，用于接收邮件，当用户不再需要这个邮箱地址时，可以直接关闭该页面，这个地址就会被永久删除并不可恢复。</p><span id="more"></span><blockquote><p>传送门：<a href="https://temp-mail.org/">https://temp-mail.org/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/tempmail.png" alt="" /></p><p>tempmail主要针对用户需要快速接收或发送一次性邮件的情况，例如注册网站、下载文件等需要使用电子邮件的情形。在使用tempmail时，用户无需填写个人真实姓名、电话号码等信息，有效避免因邮件泄露等而产生的个人隐私泄露风险。但需要注意的是，因为tempmail是一个公共的电子邮件地址，其他人也可以使用同样的地址，因此不适合用于重要、机密信息的传递。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;Temp Mail&lt;/strong&gt; 是一个提供临时、一次性电子邮件地址的网站。用户可以在该网站上生成一个随机的邮箱地址，用于接收邮件，当用户不再需要这个邮箱地址时，可以直接关闭该页面，这个地址就会被永久删除并不可恢复。&lt;/p&gt;</summary>
@@ -421,9 +446,9 @@
     <link href="https://webrelay.cn/2023/rufus/"/>
     <id>https://webrelay.cn/2023/rufus/</id>
     <published>2023-04-06T06:45:27.000Z</published>
-    <updated>2023-05-02T09:04:59.133Z</updated>
+    <updated>2023-05-02T15:52:42.103Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>Rufus</strong> 是一个提供免费、开源的Windows USB启动盘制作工具的网站。用户可以在该网站上下载Rufus软件，使用该软件将ISO镜像文件写入USB启动盘，从而将Windows操作系统安装到计算机中。</p><span id="more"></span><blockquote><p>传送门：<a href="https://rufus.ie/">https://rufus.ie/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230406145958765.png" alt="" /></p><p>Rufus软件具有简单易用、功能强大等特点，支持多种文件系统和启动模式，可以帮助用户快速制作Windows USB启动盘。该软件还支持UEFI和BIOS两种启动模式，方便用户选择适合自己的启动方式。</p><p>此外，Rufus.ie还提供了一些关于Windows USB启动盘制作的教程和常见问题解答，方便用户了解和使用该工具。该网站还提供了一些其他的工具，如MemTest86、UNetbootin等，方便用户进行系统维护和修复。</p><p>总之，Rufus.ie是一个非常实用和方便的Windows USB启动盘制作工具，可以帮助用户快速安装Windows操作系统和进行系统维护。</p>]]></content>
+    <content type="html"><![CDATA[<p><strong>Rufus</strong> 是一个提供免费、开源的Windows USB启动盘制作工具的网站。用户可以在该网站上下载Rufus软件，使用该软件将ISO镜像文件写入USB启动盘，从而将Windows操作系统安装到计算机中。</p><span id="more"></span><blockquote><p>传送门：<a href="https://rufus.ie/">https://rufus.ie/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/rufus.png" alt="" /></p><p>Rufus软件具有简单易用、功能强大等特点，支持多种文件系统和启动模式，可以帮助用户快速制作Windows USB启动盘。该软件还支持UEFI和BIOS两种启动模式，方便用户选择适合自己的启动方式。</p><p>此外，Rufus.ie还提供了一些关于Windows USB启动盘制作的教程和常见问题解答，方便用户了解和使用该工具。该网站还提供了一些其他的工具，如MemTest86、UNetbootin等，方便用户进行系统维护和修复。</p><p>总之，Rufus.ie是一个非常实用和方便的Windows USB启动盘制作工具，可以帮助用户快速安装Windows操作系统和进行系统维护。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;Rufus&lt;/strong&gt; 是一个提供免费、开源的Windows USB启动盘制作工具的网站。用户可以在该网站上下载Rufus软件，使用该软件将ISO镜像文件写入USB启动盘，从而将Windows操作系统安装到计算机中。&lt;/p&gt;</summary>
@@ -444,9 +469,9 @@
     <link href="https://webrelay.cn/2023/maj-soul/"/>
     <id>https://webrelay.cn/2023/maj-soul/</id>
     <published>2023-04-06T06:25:42.000Z</published>
-    <updated>2023-04-13T15:48:51.512Z</updated>
+    <updated>2023-05-02T13:35:39.000Z</updated>
     
-    <content type="html"><![CDATA[<p>雀魂麻将是一款由日本公司Cygames开发的在线麻将游戏，目前在中国大陆、日本、韩国等地广受欢迎。该游戏采用了日本麻将的规则和玩法，玩家可以在线与其他玩家进行对战，体验真实的麻将游戏。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.maj-soul.com/">https://www.maj-soul.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230406142616078.png" alt="" /></p><p>雀魂麻将的游戏画面精美、操作简单，玩家可以通过游戏内的教程学习麻将规则和技巧。该游戏还提供了多种游戏模式，如单机模式、联网模式、比赛模式等，让玩家可以根据自己的需求选择不同的模式进行游戏。</p><p>在雀魂麻将中，玩家需要通过组合牌型、打出自己的牌和防止其他玩家获胜等多种策略，来获得胜利。游戏中还包含了多种奖励和称号，让玩家可以不断挑战自己，提高自己的麻将水平。</p><p>总之，雀魂麻将是一款非常有趣和刺激的在线麻将游戏，可以让玩家体验真实的麻将游戏，提高自己的麻将技巧和水平。</p><ul><li>更多</li></ul><p><img src="https://pic.webrelay.cn/img/image-20230406142917892.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/image-20230406143121213.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/image-20230406143924196.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/image-20230406144106396.png" alt="" /></p>]]></content>
+    <content type="html"><![CDATA[<p>雀魂麻将是一款由日本公司Cygames开发的在线麻将游戏，目前在中国大陆、日本、韩国等地广受欢迎。该游戏采用了日本麻将的规则和玩法，玩家可以在线与其他玩家进行对战，体验真实的麻将游戏。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.maj-soul.com/">https://www.maj-soul.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/maj-soul.png" alt="" /></p><p>雀魂麻将的游戏画面精美、操作简单，玩家可以通过游戏内的教程学习麻将规则和技巧。该游戏还提供了多种游戏模式，如单机模式、联网模式、比赛模式等，让玩家可以根据自己的需求选择不同的模式进行游戏。</p><p>在雀魂麻将中，玩家需要通过组合牌型、打出自己的牌和防止其他玩家获胜等多种策略，来获得胜利。游戏中还包含了多种奖励和称号，让玩家可以不断挑战自己，提高自己的麻将水平。</p><p>总之，雀魂麻将是一款非常有趣和刺激的在线麻将游戏，可以让玩家体验真实的麻将游戏，提高自己的麻将技巧和水平。</p><ul><li>更多</li></ul><p><img src="https://pic.webrelay.cn/img/maj-soul1.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/maj-soul2.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/maj-soul3.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/maj-soul4.png" alt="" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;雀魂麻将是一款由日本公司Cygames开发的在线麻将游戏，目前在中国大陆、日本、韩国等地广受欢迎。该游戏采用了日本麻将的规则和玩法，玩家可以在线与其他玩家进行对战，体验真实的麻将游戏。&lt;/p&gt;</summary>
@@ -467,33 +492,12 @@
     <link href="https://webrelay.cn/2023/windy/"/>
     <id>https://webrelay.cn/2023/windy/</id>
     <published>2023-04-06T06:16:40.000Z</published>
-    <updated>2023-05-02T09:06:21.437Z</updated>
+    <updated>2023-05-02T13:36:07.690Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>Windy</strong> 是一个提供天气预报和气象信息的在线地图网站。它提供了全球范围内的实时天气信息，包括温度、风速、降水量、气压等多种指标。用户可以通过该网站的交互式地图界面，查看全球各地的天气情况和气象预报。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.windy.com/">https://www.windy.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230406141759453.png" alt="" /></p><p>Windy 的界面非常直观和易于使用，用户可以通过鼠标滚轮和拖拽等操作，轻松地缩放和移动地图，查看任意地点的天气情况。该网站还提供了实时的卫星云图、雷达图、风场图等气象信息，用户可以根据自己的需求选择不同的图层进行叠加，以获得更加全面的气象信息。</p><p>此外，Windy还提供了一些专业的气象工具，如风向预报、波浪预报等，方便用户进行航海、冲浪等活动的决策。该网站还提供了一些社交功能，如用户可以在网站上发布自己的天气照片和评论，与其他用户进行交流和分享。</p><p>总之，Windy是一个非常实用和方便的在线天气预报和气象信息平台，可以帮助用户更好地了解全球范围内的天气情况和气象预报，方便用户进行出行和活动决策。</p>]]></content>
+    <content type="html"><![CDATA[<p><strong>Windy</strong> 是一个提供天气预报和气象信息的在线地图网站。它提供了全球范围内的实时天气信息，包括温度、风速、降水量、气压等多种指标。用户可以通过该网站的交互式地图界面，查看全球各地的天气情况和气象预报。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.windy.com/">https://www.windy.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/windy.png" alt="" /></p><p>Windy 的界面非常直观和易于使用，用户可以通过鼠标滚轮和拖拽等操作，轻松地缩放和移动地图，查看任意地点的天气情况。该网站还提供了实时的卫星云图、雷达图、风场图等气象信息，用户可以根据自己的需求选择不同的图层进行叠加，以获得更加全面的气象信息。</p><p>此外，Windy还提供了一些专业的气象工具，如风向预报、波浪预报等，方便用户进行航海、冲浪等活动的决策。该网站还提供了一些社交功能，如用户可以在网站上发布自己的天气照片和评论，与其他用户进行交流和分享。</p><p>总之，Windy是一个非常实用和方便的在线天气预报和气象信息平台，可以帮助用户更好地了解全球范围内的天气情况和气象预报，方便用户进行出行和活动决策。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;strong&gt;Windy&lt;/strong&gt; 是一个提供天气预报和气象信息的在线地图网站。它提供了全球范围内的实时天气信息，包括温度、风速、降水量、气压等多种指标。用户可以通过该网站的交互式地图界面，查看全球各地的天气情况和气象预报。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
-    
-    
-    <category term="天气" scheme="https://webrelay.cn/tags/%E5%A4%A9%E6%B0%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>中国气象局 - 天气预报</title>
-    <link href="https://webrelay.cn/2023/weathercma/"/>
-    <id>https://webrelay.cn/2023/weathercma/</id>
-    <published>2023-04-06T06:12:02.000Z</published>
-    <updated>2023-05-02T09:06:23.945Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>中国气象局·天气预报</strong> 是中国气象局官方发布天气预报的网站。该网站提供了全国各地的天气预报、气象预警、气象服务等信息，用户可以通过该网站获取到最新的天气信息。</p><span id="more"></span><blockquote><p>传送门：<a href="https://weather.cma.cn/">https://weather.cma.cn/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/image-20230406150216334.png" alt="" /></p><p>中国气象局-天气预报网站的天气预报信息包括未来一周的天气情况，包括温度、风力、降雨等指标，用户可以根据自己的需求选择不同的城市和日期进行查询。此外，该网站还提供了实时的天气雷达图、卫星云图、风场图等气象信息，方便用户更加全面地了解天气情况。</p><p>除了天气预报，中国气象局-天气预报网站还提供了气象服务，如气象灾害预警、农业气象预报、城市气象预报等，帮助人们更好地应对气象变化。同时，该网站还提供了气象科普、学习气象知识等内容，方便用户了解气象学科知识。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;中国气象局·天气预报&lt;/strong&gt; 是中国气象局官方发布天气预报的网站。该网站提供了全国各地的天气预报、气象预警、气象服务等信息，用户可以通过该网站获取到最新的天气信息。&lt;/p&gt;</summary>
     
     
     
