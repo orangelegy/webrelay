@@ -1,3 +1,4 @@
+https://webrelay.cn/2023/kook/
 https://webrelay.cn/2023/saucenao/
 https://webrelay.cn/2023/minesweeper/
 https://webrelay.cn/2023/similarsites/
@@ -7,7 +8,6 @@ https://webrelay.cn/2023/z-library/
 https://webrelay.cn/2023/dbbqb/
 https://webrelay.cn/2023/wantwords/
 https://webrelay.cn/2023/wantquotes/
-https://webrelay.cn/2023/kook/
 https://webrelay.cn/2023/Maze-Generator/
 https://webrelay.cn/2023/justlive/
 https://webrelay.cn/2023/maj-soul/
@@ -132,5 +132,4 @@ https://webrelay.cn/tags/%E5%9B%BE%E4%B9%A6/
 https://webrelay.cn/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/
 https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/
 https://webrelay.cn/categories/%E7%99%BD%E5%AB%96%E8%B5%84%E6%BA%90/
-https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/
 https://webrelay.cn/categories/%E8%89%AF%E5%BF%83%E5%B7%A5%E5%85%B7/

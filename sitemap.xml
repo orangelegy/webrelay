@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://webrelay.cn/2023/kook/</loc>
+    
+    <lastmod>2023-05-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://webrelay.cn/2023/saucenao/</loc>
     
     <lastmod>2023-05-03</lastmod>
@@ -75,15 +84,6 @@
   
   <url>
     <loc>https://webrelay.cn/2023/wantquotes/</loc>
-    
-    <lastmod>2023-05-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://webrelay.cn/2023/kook/</loc>
     
     <lastmod>2023-05-03</lastmod>
     
@@ -1028,13 +1028,6 @@
   
   <url>
     <loc>https://webrelay.cn/categories/%E7%99%BD%E5%AB%96%E8%B5%84%E6%BA%90/</loc>
-    <lastmod>2023-05-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2023-05-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
