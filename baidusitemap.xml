@@ -1,43 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://webrelay.cn/2023/wantwords/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/kook/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/Maze-Generator/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/justlive/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/maj-soul/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/handle/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/cbpm/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/logonews/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/ciying/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/pintuxia/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/gaodingps/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/z-library/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/chrome-dino/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/hotbox/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/typeracer/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/webtor/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/dbbqb/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/bookmarkearth/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/youquhome/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/lkssite/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/ipv6-test/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/ilovepdf/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/wallhaven/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/greasyfork/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/typingclub/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/rufus/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/tempmail/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://webrelay.cn/2023/airportal/</loc>
+    <lastmod>2023-05-03</lastmod>
+  </url>
+  <url>
     <loc>https://webrelay.cn/2023/magiceraser/</loc>
     <lastmod>2023-05-02</lastmod>
   </url>
   <url>
-    <loc>https://webrelay.cn/2023/z-library/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/hotbox/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/rufus/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/cbpm/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/typeracer/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/Maze-Generator/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/justlive/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
     <loc>https://webrelay.cn/2023/minesweeper/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/wallhaven/</loc>
     <lastmod>2023-05-02</lastmod>
   </url>
   <url>
@@ -46,14 +126,6 @@
   </url>
   <url>
     <loc>https://webrelay.cn/2023/alternativeto/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/greasyfork/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/typingclub/</loc>
     <lastmod>2023-05-02</lastmod>
   </url>
   <url>
@@ -73,31 +145,11 @@
     <lastmod>2023-05-02</lastmod>
   </url>
   <url>
-    <loc>https://webrelay.cn/2023/maj-soul/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/tempmail/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
     <loc>https://webrelay.cn/2023/sms-activate/</loc>
     <lastmod>2023-05-02</lastmod>
   </url>
   <url>
-    <loc>https://webrelay.cn/2023/airportal/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
     <loc>https://webrelay.cn/2023/startallback/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/handle/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/logonews/</loc>
     <lastmod>2023-05-02</lastmod>
   </url>
   <url>
@@ -106,22 +158,6 @@
   </url>
   <url>
     <loc>https://webrelay.cn/2023/speedtest/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/ciying/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/pintuxia/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/chrome-dino/</loc>
-    <lastmod>2023-05-02</lastmod>
-  </url>
-  <url>
-    <loc>https://webrelay.cn/2023/gaodingps/</loc>
     <lastmod>2023-05-02</lastmod>
   </url>
   <url>
