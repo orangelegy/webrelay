@@ -6,7 +6,7 @@
   <link href="https://webrelay.cn/atom.xml" rel="self"/>
   
   <link href="https://webrelay.cn/"/>
-  <updated>2023-05-03T04:20:09.479Z</updated>
+  <updated>2023-05-03T09:50:03.373Z</updated>
   <id>https://webrelay.cn/</id>
   
   <author>
@@ -17,11 +17,69 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>SauceNAO - 查图片来源</title>
+    <link href="https://webrelay.cn/2023/saucenao/"/>
+    <id>https://webrelay.cn/2023/saucenao/</id>
+    <published>2023-05-03T08:29:09.000Z</published>
+    <updated>2023-05-03T09:50:03.373Z</updated>
+    
+    <content type="html"><![CDATA[<p>SauceNAO是一个反向图像搜索引擎，尤其对于动画、漫画、插画作品、二次元图片等有着非常不错的识图搜索效果。您可以上传图片，即可获得该图片的来源以及作者主页链接。它包含了如pixiv、Yande、Anime、Movies、MangaDex、ArtStation等数十亿张图片的搜索结果。</p><span id="more"></span><blockquote><p>传送门：<a href="https://saucenao.com/index.php">https://saucenao.com/index.php</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/saucenao.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/saucenao1.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/saucenao2.png" alt="" /></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;SauceNAO是一个反向图像搜索引擎，尤其对于动画、漫画、插画作品、二次元图片等有着非常不错的识图搜索效果。您可以上传图片，即可获得该图片的来源以及作者主页链接。它包含了如pixiv、Yande、Anime、Movies、MangaDex、ArtStation等数十亿张图片的搜索结果。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="免费" scheme="https://webrelay.cn/tags/%E5%85%8D%E8%B4%B9/"/>
+    
+    <category term="搜索" scheme="https://webrelay.cn/tags/%E6%90%9C%E7%B4%A2/"/>
+    
+    <category term="图片" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87/"/>
+    
+    <category term="搜图" scheme="https://webrelay.cn/tags/%E6%90%9C%E5%9B%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WantQuotes - 据意查句</title>
+    <link href="https://webrelay.cn/2023/wantquotes/"/>
+    <id>https://webrelay.cn/2023/wantquotes/</id>
+    <published>2023-05-03T08:11:29.000Z</published>
+    <updated>2023-05-03T09:48:01.800Z</updated>
+    
+    <content type="html"><![CDATA[<p>WantQuotes是一个据意查句的网站，它可以根据您输入描述的意思来查找相应的名言名句。例如，如果您输入“树立远大志向”，可以查到歌德的名言“人生之要事在于确立伟大的目标与实现这目标的决心”（现代类名句）、刘禹锡的诗句“少年负志气，信道不从时。”（古诗文类名句）、“人起心发，树起根发”（熟语类名句）等。目前包含4大类13小类的名句：现代大类、古诗文大类、熟语大类和歇后语大类。</p><span id="more"></span><blockquote><p>传送门：<a href="https://wantquotes.net/">https://wantquotes.net/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/wantquotes.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/wantquotes1.png" alt="" /></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;WantQuotes是一个据意查句的网站，它可以根据您输入描述的意思来查找相应的名言名句。例如，如果您输入“树立远大志向”，可以查到歌德的名言“人生之要事在于确立伟大的目标与实现这目标的决心”（现代类名句）、刘禹锡的诗句“少年负志气，信道不从时。”（古诗文类名句）、“人起心发，树起根发”（熟语类名句）等。目前包含4大类13小类的名句：现代大类、古诗文大类、熟语大类和歇后语大类。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="知识" scheme="https://webrelay.cn/tags/%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="搜索" scheme="https://webrelay.cn/tags/%E6%90%9C%E7%B4%A2/"/>
+    
+    <category term="名言" scheme="https://webrelay.cn/tags/%E5%90%8D%E8%A8%80/"/>
+    
+    <category term="现代诗" scheme="https://webrelay.cn/tags/%E7%8E%B0%E4%BB%A3%E8%AF%97/"/>
+    
+    <category term="古诗文" scheme="https://webrelay.cn/tags/%E5%8F%A4%E8%AF%97%E6%96%87/"/>
+    
+    <category term="相关度" scheme="https://webrelay.cn/tags/%E7%9B%B8%E5%85%B3%E5%BA%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>WantWords - 反向词典</title>
     <link href="https://webrelay.cn/2023/wantwords/"/>
     <id>https://webrelay.cn/2023/wantwords/</id>
     <published>2023-05-03T04:06:20.000Z</published>
-    <updated>2023-05-03T04:20:09.479Z</updated>
+    <updated>2023-05-03T09:48:08.450Z</updated>
     
     <content type="html"><![CDATA[<p>WantWords是一个由清华大学自然语言处理实验室出品的开源在线反向词典。与为查询词提供定义的常规（正向）词典相反，反向词典返回与查询描述语义相符的词。它可以帮助您解决表述问题，即无法从记忆中检索出一个词的现象。例如，如果您输入“山非常高”，系统将返回一系列模型认为表达“山非常高”意思的词语，例如“高峻”、“巍峨”等。</p><span id="more"></span><blockquote><p>传送门：<a href="https://wantwords.net/">https://wantwords.net/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/wantwords.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/wantwords1.png" alt="" /></p>]]></content>
     
@@ -35,13 +93,15 @@
     
     <category term="知识" scheme="https://webrelay.cn/tags/%E7%9F%A5%E8%AF%86/"/>
     
+    <category term="搜索" scheme="https://webrelay.cn/tags/%E6%90%9C%E7%B4%A2/"/>
+    
+    <category term="相关度" scheme="https://webrelay.cn/tags/%E7%9B%B8%E5%85%B3%E5%BA%A6/"/>
+    
     <category term="词典" scheme="https://webrelay.cn/tags/%E8%AF%8D%E5%85%B8/"/>
     
     <category term="翻译" scheme="https://webrelay.cn/tags/%E7%BF%BB%E8%AF%91/"/>
     
     <category term="近义词" scheme="https://webrelay.cn/tags/%E8%BF%91%E4%B9%89%E8%AF%8D/"/>
-    
-    <category term="相关度" scheme="https://webrelay.cn/tags/%E7%9B%B8%E5%85%B3%E5%BA%A6/"/>
     
   </entry>
   
@@ -200,7 +260,7 @@
     <link href="https://webrelay.cn/2023/dbbqb/"/>
     <id>https://webrelay.cn/2023/dbbqb/</id>
     <published>2023-05-03T02:47:32.000Z</published>
-    <updated>2023-05-03T03:57:56.549Z</updated>
+    <updated>2023-05-03T09:48:21.684Z</updated>
     
     <content type="html"><![CDATA[<p>「<strong>逗比拯救世界</strong>」是一个有趣的表情包搜索网站，各种元素的表情包都能搜索到。首页搜索框下有每日推荐的表情包关键词，下面是推荐表情，刷新网站会更换。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.dbbqb.com/">https://www.dbbqb.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/dbbqb.png" alt="" /></p><p>精选套图是各种一系列、成套的表情包。</p><p><img src="https://pic.webrelay.cn/img/dbbqb1.png" alt="" /></p><p>表情DIY一些网红动态表情包可以随意DIY台词，比如王境泽的“真香”，制作完直接点击下载即可。所有的表情包图片也都是可以DIY、收藏、搜索相似、下载的，点击你要DIY的表情包，点击表情包下方的功能即可操作。</p><p><img src="https://pic.webrelay.cn/img/dbbqb2.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/%E5%BC%A0%E5%AE%B6%E8%BE%89.gif" alt="" /></p>]]></content>
     
@@ -211,6 +271,8 @@
     
     <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
+    
+    <category term="搜索" scheme="https://webrelay.cn/tags/%E6%90%9C%E7%B4%A2/"/>
     
     <category term="表情包" scheme="https://webrelay.cn/tags/%E8%A1%A8%E6%83%85%E5%8C%85/"/>
     
@@ -329,7 +391,7 @@
     <link href="https://webrelay.cn/2023/z-library/"/>
     <id>https://webrelay.cn/2023/z-library/</id>
     <published>2023-04-29T13:56:12.000Z</published>
-    <updated>2023-05-03T03:58:41.751Z</updated>
+    <updated>2023-05-03T09:48:33.868Z</updated>
     
     <content type="html"><![CDATA[<p><strong>Z-Library</strong>是一个非常优秀的电子图书馆，它提供大量免费电子书的下载，其收藏包括数亿种电子书、文章、期刊等多种文献资源。这个网站的特点是存书量巨大、免费下载和下载速度快，用户可以根据书名、作者、主题或ISBN号来搜索需要的资料。</p><span id="more"></span><blockquote><p>传送门：<a href="https://singlelogin.me/">https://singlelogin.me/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/zlibrary.png" alt="" /></p><p>Z-Library成立于2009年，是一个非营利性的数字图书馆项目。现在，它已经成为了全球最大的数字图书馆之一。它的目标是让每个人都可以自由地获取知识。因此，这个网站提供了免费下载电子书、学术论文和期刊等多种资源的服务，任何人都可以不用注册就可以使用。</p><p>Z-Library拥有一个巨大的藏书，其中包括1千多万本电子书和将近1亿篇学术文章，并且每天还会不断增加。您可以找到各种学科领域的书籍，如人文社科、自然科学、技术工程等。这些书籍不仅包括最新出版的著作，还有一些经典的文献。而且这些书籍的质量也很高，绝大部分都是扫描版的书籍，排版清晰、文字清晰可见，方便用户进行阅读和学习。</p><p>用户可以通过搜索功能查找自己需要的书籍或者文章。同时，Z-Library也提供了一些特色功能，比如可以按照语言、出版日期、类别、出版社等多种方式对搜索结果进行筛选，以便用户能够快速找到自己想要的内容。</p><p><img src="https://pic.webrelay.cn/img/zlibrary1.png" alt="" /></p><p>除了搜索功能，Z-Library还提供了一些其他的功能，例如您可以将自己喜欢的书籍收藏起来，方便下次查找。此外，该网站还提供了很多用户评论和评分，可以帮助用户更好地了解某本书的质量。如果您喜欢分享，这里也是一个非常好的平台，您可以上传自己的书籍或文章，与其他用户共享。</p><p>总之，Z-Library是一个非常优秀的数字图书馆，为广大读者提供了免费、高质量的学术资源下载服务，适合于需要大量素材的学生、教师、研究人员和专业人士使用。</p><blockquote><p>另外我注意到Z-Library项目博客一篇全球统计的文章，有趣的是，保守统计中国的用户不仅是最多的并且贡献量遥遥领先。其中中国的5所高校（北京大学、浙江大学、复旦大学、中国科学技术大学、清华大学）贡献量最高，与第二名相差超四倍。</p><p>相关链接：<a href="https://lib-tspcs6owa5qtp5jr3ii4b6jb.resist.tel/blog/40">Worldwide Statistics: How Students and Educators Use Z-Library</a></p></blockquote>]]></content>
     
@@ -342,6 +404,8 @@
     
     
     <category term="免费" scheme="https://webrelay.cn/tags/%E5%85%8D%E8%B4%B9/"/>
+    
+    <category term="搜索" scheme="https://webrelay.cn/tags/%E6%90%9C%E7%B4%A2/"/>
     
     <category term="✈️" scheme="https://webrelay.cn/tags/%E2%9C%88%EF%B8%8F/"/>
     
@@ -475,56 +539,6 @@
     <category term="网络" scheme="https://webrelay.cn/tags/%E7%BD%91%E7%BB%9C/"/>
     
     <category term="测试" scheme="https://webrelay.cn/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>removebg - 在线AI抠图</title>
-    <link href="https://webrelay.cn/2023/removebg/"/>
-    <id>https://webrelay.cn/2023/removebg/</id>
-    <published>2023-04-09T13:02:37.000Z</published>
-    <updated>2023-05-02T13:29:08.845Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>removebg</strong> 是一个可以在线抠图的网站。它通过AI识别出人物背景，自动抠图，生成透明选区，可以自己按需求选择适合的背景。它能够在几秒钟内帮你去掉背景留下主题，得到一张透明背景的照片。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.remove.bg/">https://www.remove.bg/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/removebg.png" alt="" /></p><p>原始图：</p><p><img src="https://pic.webrelay.cn/img/removebg1.png" alt="" /></p><p>已消除背景：</p><p><img src="https://pic.webrelay.cn/img/removebg2.png" alt="" /></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;removebg&lt;/strong&gt; 是一个可以在线抠图的网站。它通过AI识别出人物背景，自动抠图，生成透明选区，可以自己按需求选择适合的背景。它能够在几秒钟内帮你去掉背景留下主题，得到一张透明背景的照片。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
-    
-    
-    <category term="图片处理" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
-    
-    <category term="抠图" scheme="https://webrelay.cn/tags/%E6%8A%A0%E5%9B%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LogoNews- 标志情报局</title>
-    <link href="https://webrelay.cn/2023/logonews/"/>
-    <id>https://webrelay.cn/2023/logonews/</id>
-    <published>2023-04-09T12:55:16.000Z</published>
-    <updated>2023-05-03T03:59:07.601Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>标志情报局</strong>是一个专注于品牌标志资讯报道的网站。它的主要目的是第一时间更新一切有关Logo的新闻，趣事，讨论等信息。它自上线以来，已经累积报道过7000多家换标企业的相关案例资讯。标志情报局的坚持获得了大量业内人士的肯定与支持。现如今，标志情报局已经不仅仅只是一个获取品牌资讯的平台，而是以新品牌资讯、品牌标志类图书、品牌标志类资源、设计行业招聘求职为一体的专业性站点。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.logonews.cn/">https://www.logonews.cn/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/logonews.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/logonews1.png" alt="" /></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;标志情报局&lt;/strong&gt;是一个专注于品牌标志资讯报道的网站。它的主要目的是第一时间更新一切有关Logo的新闻，趣事，讨论等信息。它自上线以来，已经累积报道过7000多家换标企业的相关案例资讯。标志情报局的坚持获得了大量业内人士的肯定与支持。现如今，标志情报局已经不仅仅只是一个获取品牌资讯的平台，而是以新品牌资讯、品牌标志类图书、品牌标志类资源、设计行业招聘求职为一体的专业性站点。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
-    
-    
-    <category term="知识" scheme="https://webrelay.cn/tags/%E7%9F%A5%E8%AF%86/"/>
-    
-    <category term="Logo" scheme="https://webrelay.cn/tags/Logo/"/>
-    
-    <category term="新闻" scheme="https://webrelay.cn/tags/%E6%96%B0%E9%97%BB/"/>
-    
-    <category term="资讯" scheme="https://webrelay.cn/tags/%E8%B5%84%E8%AE%AF/"/>
     
   </entry>
   
