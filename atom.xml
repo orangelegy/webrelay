@@ -6,7 +6,7 @@
   <link href="https://webrelay.cn/atom.xml" rel="self"/>
   
   <link href="https://webrelay.cn/"/>
-  <updated>2023-05-03T09:50:03.373Z</updated>
+  <updated>2023-05-03T09:51:26.465Z</updated>
   <id>https://webrelay.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>SauceNAO - 查图片来源</title>
+    <title>SauceNAO - 查图片来源 ✈️</title>
     <link href="https://webrelay.cn/2023/saucenao/"/>
     <id>https://webrelay.cn/2023/saucenao/</id>
     <published>2023-05-03T08:29:09.000Z</published>
-    <updated>2023-05-03T09:50:03.373Z</updated>
+    <updated>2023-05-03T09:51:26.465Z</updated>
     
     <content type="html"><![CDATA[<p>SauceNAO是一个反向图像搜索引擎，尤其对于动画、漫画、插画作品、二次元图片等有着非常不错的识图搜索效果。您可以上传图片，即可获得该图片的来源以及作者主页链接。它包含了如pixiv、Yande、Anime、Movies、MangaDex、ArtStation等数十亿张图片的搜索结果。</p><span id="more"></span><blockquote><p>传送门：<a href="https://saucenao.com/index.php">https://saucenao.com/index.php</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/saucenao.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/saucenao1.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/saucenao2.png" alt="" /></p>]]></content>
     
@@ -36,6 +36,8 @@
     <category term="免费" scheme="https://webrelay.cn/tags/%E5%85%8D%E8%B4%B9/"/>
     
     <category term="搜索" scheme="https://webrelay.cn/tags/%E6%90%9C%E7%B4%A2/"/>
+    
+    <category term="✈️" scheme="https://webrelay.cn/tags/%E2%9C%88%EF%B8%8F/"/>
     
     <category term="图片" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87/"/>
     
