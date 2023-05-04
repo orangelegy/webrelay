@@ -6,7 +6,7 @@
   <link href="https://webrelay.cn/atom.xml" rel="self"/>
   
   <link href="https://webrelay.cn/"/>
-  <updated>2023-05-03T09:51:26.465Z</updated>
+  <updated>2023-05-04T06:40:11.172Z</updated>
   <id>https://webrelay.cn/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>白描 - 图片文字提取</title>
+    <link href="https://webrelay.cn/2023/baimiao/"/>
+    <id>https://webrelay.cn/2023/baimiao/</id>
+    <published>2023-05-04T06:27:18.000Z</published>
+    <updated>2023-05-04T06:40:11.172Z</updated>
+    
+    <content type="html"><![CDATA[<p>白描提供了网页版OCR文字识别服务，无需安装软件，需要的时候打开用就可以。它可以从图片中识别出可复制的文字，它具备高准确度的文字识别、表格识别转Excel、批量识别、识别后翻译、文件扫描等功能。</p><span id="more"></span><blockquote><p>传送门：<a href="https://web.baimiaoapp.com/">https://web.baimiaoapp.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/baimiao.png" alt="" /></p><ul><li><strong>演示</strong></li></ul><p><img src="https://pic.webrelay.cn/img/baimiao1.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/baimiao2.png" alt="" /></p><blockquote><p>粘贴到MarkDown：</p><p>$ (uv)^ {(n)} $ = $ \sum _ {k=0}^ {n} $ $ C_ {n}^ {k} $ $ u^ {(n-k)} $ $ v^ {(k)} $<br />= $ u^ {(n)} $ v+ $ nu^ {(n-1)} $ v’+ $ \frac {n(n-1)}{2} $ $ u^ {(n-2)} $ v’’+ $ \cdots $ + $ \frac {n(n-1)\cdots (n-k+1)}{b} $ $ u^ {(n-k)} $ $ v^ {(k)} $ + $ \cdots $ + $ uv^ {(n)} $</p></blockquote>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;白描提供了网页版OCR文字识别服务，无需安装软件，需要的时候打开用就可以。它可以从图片中识别出可复制的文字，它具备高准确度的文字识别、表格识别转Excel、批量识别、识别后翻译、文件扫描等功能。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="免费" scheme="https://webrelay.cn/tags/%E5%85%8D%E8%B4%B9/"/>
+    
+    <category term="图片" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87/"/>
+    
+    <category term="OCR" scheme="https://webrelay.cn/tags/OCR/"/>
+    
+    <category term="文字识别" scheme="https://webrelay.cn/tags/%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ProcessOn - 在线制作思维导图</title>
+    <link href="https://webrelay.cn/2023/processon/"/>
+    <id>https://webrelay.cn/2023/processon/</id>
+    <published>2023-05-04T05:44:48.000Z</published>
+    <updated>2023-05-04T05:55:17.717Z</updated>
+    
+    <content type="html"><![CDATA[<p>ProcessOn是一个免费的在线协作绘图平台，可以与他人共享图表并实时协作。它为用户提供了强大、易用的作图工具。它支持在线创作流程图、思维导图、组织结构图、网络拓扑图、BPMN、UML图、UI界面原型设计、iOS界面原型设计等。同时，它依托于互联网实现了人与人之间的协作。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.processon.com/">https://www.processon.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/processon.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/processon1.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/processon2.png" alt="" /></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;ProcessOn是一个免费的在线协作绘图平台，可以与他人共享图表并实时协作。它为用户提供了强大、易用的作图工具。它支持在线创作流程图、思维导图、组织结构图、网络拓扑图、BPMN、UML图、UI界面原型设计、iOS界面原型设计等。同时，它依托于互联网实现了人与人之间的协作。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="学习" scheme="https://webrelay.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="免费" scheme="https://webrelay.cn/tags/%E5%85%8D%E8%B4%B9/"/>
+    
+    <category term="思维导图" scheme="https://webrelay.cn/tags/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/"/>
+    
+    <category term="流程图" scheme="https://webrelay.cn/tags/%E6%B5%81%E7%A8%8B%E5%9B%BE/"/>
+    
+    <category term="在线协作" scheme="https://webrelay.cn/tags/%E5%9C%A8%E7%BA%BF%E5%8D%8F%E4%BD%9C/"/>
+    
+  </entry>
   
   <entry>
     <title>SauceNAO - 查图片来源 ✈️</title>
@@ -35,11 +91,11 @@
     
     <category term="免费" scheme="https://webrelay.cn/tags/%E5%85%8D%E8%B4%B9/"/>
     
+    <category term="图片" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87/"/>
+    
     <category term="搜索" scheme="https://webrelay.cn/tags/%E6%90%9C%E7%B4%A2/"/>
     
     <category term="✈️" scheme="https://webrelay.cn/tags/%E2%9C%88%EF%B8%8F/"/>
-    
-    <category term="图片" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87/"/>
     
     <category term="搜图" scheme="https://webrelay.cn/tags/%E6%90%9C%E5%9B%BE/"/>
     
@@ -50,7 +106,7 @@
     <link href="https://webrelay.cn/2023/wantquotes/"/>
     <id>https://webrelay.cn/2023/wantquotes/</id>
     <published>2023-05-03T08:11:29.000Z</published>
-    <updated>2023-05-03T09:48:01.800Z</updated>
+    <updated>2023-05-04T05:55:23.993Z</updated>
     
     <content type="html"><![CDATA[<p>WantQuotes是一个据意查句的网站，它可以根据您输入描述的意思来查找相应的名言名句。例如，如果您输入“树立远大志向”，可以查到歌德的名言“人生之要事在于确立伟大的目标与实现这目标的决心”（现代类名句）、刘禹锡的诗句“少年负志气，信道不从时。”（古诗文类名句）、“人起心发，树起根发”（熟语类名句）等。目前包含4大类13小类的名句：现代大类、古诗文大类、熟语大类和歇后语大类。</p><span id="more"></span><blockquote><p>传送门：<a href="https://wantquotes.net/">https://wantquotes.net/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/wantquotes.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/wantquotes1.png" alt="" /></p>]]></content>
     
@@ -63,6 +119,8 @@
     
     
     <category term="知识" scheme="https://webrelay.cn/tags/%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="学习" scheme="https://webrelay.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
     <category term="搜索" scheme="https://webrelay.cn/tags/%E6%90%9C%E7%B4%A2/"/>
     
@@ -81,7 +139,7 @@
     <link href="https://webrelay.cn/2023/wantwords/"/>
     <id>https://webrelay.cn/2023/wantwords/</id>
     <published>2023-05-03T04:06:20.000Z</published>
-    <updated>2023-05-03T09:48:08.450Z</updated>
+    <updated>2023-05-04T05:55:33.815Z</updated>
     
     <content type="html"><![CDATA[<p>WantWords是一个由清华大学自然语言处理实验室出品的开源在线反向词典。与为查询词提供定义的常规（正向）词典相反，反向词典返回与查询描述语义相符的词。它可以帮助您解决表述问题，即无法从记忆中检索出一个词的现象。例如，如果您输入“山非常高”，系统将返回一系列模型认为表达“山非常高”意思的词语，例如“高峻”、“巍峨”等。</p><span id="more"></span><blockquote><p>传送门：<a href="https://wantwords.net/">https://wantwords.net/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/wantwords.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/wantwords1.png" alt="" /></p>]]></content>
     
@@ -94,6 +152,8 @@
     
     
     <category term="知识" scheme="https://webrelay.cn/tags/%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="学习" scheme="https://webrelay.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
     <category term="搜索" scheme="https://webrelay.cn/tags/%E6%90%9C%E7%B4%A2/"/>
     
@@ -137,7 +197,7 @@
     <link href="https://webrelay.cn/2023/ilovepdf/"/>
     <id>https://webrelay.cn/2023/ilovepdf/</id>
     <published>2023-05-03T03:43:34.000Z</published>
-    <updated>2023-05-03T03:57:33.303Z</updated>
+    <updated>2023-05-04T05:56:15.975Z</updated>
     
     <content type="html"><![CDATA[<p><strong>iLovePDF</strong>是一个提供在线PDF工具的网站，它提供了一系列免费且易于使用的PDF工具，包括合并、拆分、压缩、转换、旋转、解锁和添加水印等功能。您可以在该网站上轻松处理PDF文件。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.ilovepdf.com/zh-cn">https://www.ilovepdf.com/zh-cn</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/ilovepdf.png" alt="" /></p>]]></content>
     
@@ -152,6 +212,8 @@
     <category term="文件" scheme="https://webrelay.cn/tags/%E6%96%87%E4%BB%B6/"/>
     
     <category term="免费" scheme="https://webrelay.cn/tags/%E5%85%8D%E8%B4%B9/"/>
+    
+    <category term="办公" scheme="https://webrelay.cn/tags/%E5%8A%9E%E5%85%AC/"/>
     
     <category term="PDF" scheme="https://webrelay.cn/tags/PDF/"/>
     
@@ -212,7 +274,7 @@
     <link href="https://webrelay.cn/2023/youquhome/"/>
     <id>https://webrelay.cn/2023/youquhome/</id>
     <published>2023-05-03T03:19:19.000Z</published>
-    <updated>2023-05-03T03:57:44.200Z</updated>
+    <updated>2023-05-04T06:01:19.956Z</updated>
     
     <content type="html"><![CDATA[<p><strong>有趣网址之家</strong>是一个收藏全球最有趣的网站的平台。它搜罗了各种有趣的网站，让您可以在这里找到各种好玩、有趣味的网站。这些网站不一定多大、多豪华，有的甚至什么都没有，但登陆后让您会心的一笑，也许，这一整天不开心、烦心的事都会抛到脑后。</p><span id="more"></span><blockquote><p>传送门：<a href="https://youquhome.com/">https://youquhome.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/youquhome.png" alt="" /></p>]]></content>
     
@@ -228,7 +290,7 @@
     
     <category term="有趣" scheme="https://webrelay.cn/tags/%E6%9C%89%E8%B6%A3/"/>
     
-    <category term="网站tui&#39;jian" scheme="https://webrelay.cn/tags/%E7%BD%91%E7%AB%99tui-jian/"/>
+    <category term="网站推荐" scheme="https://webrelay.cn/tags/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
     
   </entry>
   
@@ -262,7 +324,7 @@
     <link href="https://webrelay.cn/2023/dbbqb/"/>
     <id>https://webrelay.cn/2023/dbbqb/</id>
     <published>2023-05-03T02:47:32.000Z</published>
-    <updated>2023-05-03T09:48:21.684Z</updated>
+    <updated>2023-05-04T05:57:17.484Z</updated>
     
     <content type="html"><![CDATA[<p>「<strong>逗比拯救世界</strong>」是一个有趣的表情包搜索网站，各种元素的表情包都能搜索到。首页搜索框下有每日推荐的表情包关键词，下面是推荐表情，刷新网站会更换。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.dbbqb.com/">https://www.dbbqb.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/dbbqb.png" alt="" /></p><p>精选套图是各种一系列、成套的表情包。</p><p><img src="https://pic.webrelay.cn/img/dbbqb1.png" alt="" /></p><p>表情DIY一些网红动态表情包可以随意DIY台词，比如王境泽的“真香”，制作完直接点击下载即可。所有的表情包图片也都是可以DIY、收藏、搜索相似、下载的，点击你要DIY的表情包，点击表情包下方的功能即可操作。</p><p><img src="https://pic.webrelay.cn/img/dbbqb2.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/%E5%BC%A0%E5%AE%B6%E8%BE%89.gif" alt="" /></p>]]></content>
     
@@ -273,6 +335,8 @@
     
     <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
+    
+    <category term="图片" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87/"/>
     
     <category term="搜索" scheme="https://webrelay.cn/tags/%E6%90%9C%E7%B4%A2/"/>
     
@@ -393,7 +457,7 @@
     <link href="https://webrelay.cn/2023/z-library/"/>
     <id>https://webrelay.cn/2023/z-library/</id>
     <published>2023-04-29T13:56:12.000Z</published>
-    <updated>2023-05-03T09:48:33.868Z</updated>
+    <updated>2023-05-04T05:55:59.616Z</updated>
     
     <content type="html"><![CDATA[<p><strong>Z-Library</strong>是一个非常优秀的电子图书馆，它提供大量免费电子书的下载，其收藏包括数亿种电子书、文章、期刊等多种文献资源。这个网站的特点是存书量巨大、免费下载和下载速度快，用户可以根据书名、作者、主题或ISBN号来搜索需要的资料。</p><span id="more"></span><blockquote><p>传送门：<a href="https://singlelogin.me/">https://singlelogin.me/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/zlibrary.png" alt="" /></p><p>Z-Library成立于2009年，是一个非营利性的数字图书馆项目。现在，它已经成为了全球最大的数字图书馆之一。它的目标是让每个人都可以自由地获取知识。因此，这个网站提供了免费下载电子书、学术论文和期刊等多种资源的服务，任何人都可以不用注册就可以使用。</p><p>Z-Library拥有一个巨大的藏书，其中包括1千多万本电子书和将近1亿篇学术文章，并且每天还会不断增加。您可以找到各种学科领域的书籍，如人文社科、自然科学、技术工程等。这些书籍不仅包括最新出版的著作，还有一些经典的文献。而且这些书籍的质量也很高，绝大部分都是扫描版的书籍，排版清晰、文字清晰可见，方便用户进行阅读和学习。</p><p>用户可以通过搜索功能查找自己需要的书籍或者文章。同时，Z-Library也提供了一些特色功能，比如可以按照语言、出版日期、类别、出版社等多种方式对搜索结果进行筛选，以便用户能够快速找到自己想要的内容。</p><p><img src="https://pic.webrelay.cn/img/zlibrary1.png" alt="" /></p><p>除了搜索功能，Z-Library还提供了一些其他的功能，例如您可以将自己喜欢的书籍收藏起来，方便下次查找。此外，该网站还提供了很多用户评论和评分，可以帮助用户更好地了解某本书的质量。如果您喜欢分享，这里也是一个非常好的平台，您可以上传自己的书籍或文章，与其他用户共享。</p><p>总之，Z-Library是一个非常优秀的数字图书馆，为广大读者提供了免费、高质量的学术资源下载服务，适合于需要大量素材的学生、教师、研究人员和专业人士使用。</p><blockquote><p>另外我注意到Z-Library项目博客一篇全球统计的文章，有趣的是，保守统计中国的用户不仅是最多的并且贡献量遥遥领先。其中中国的5所高校（北京大学、浙江大学、复旦大学、中国科学技术大学、清华大学）贡献量最高，与第二名相差超四倍。</p><p>相关链接：<a href="https://lib-tspcs6owa5qtp5jr3ii4b6jb.resist.tel/blog/40">Worldwide Statistics: How Students and Educators Use Z-Library</a></p></blockquote>]]></content>
     
@@ -404,6 +468,10 @@
     
     <category term="白嫖资源" scheme="https://webrelay.cn/categories/%E7%99%BD%E5%AB%96%E8%B5%84%E6%BA%90/"/>
     
+    
+    <category term="知识" scheme="https://webrelay.cn/tags/%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="学习" scheme="https://webrelay.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
     
     <category term="免费" scheme="https://webrelay.cn/tags/%E5%85%8D%E8%B4%B9/"/>
     
@@ -422,7 +490,7 @@
     <link href="https://webrelay.cn/2023/gaodingps/"/>
     <id>https://webrelay.cn/2023/gaodingps/</id>
     <published>2023-04-12T14:46:06.000Z</published>
-    <updated>2023-05-03T03:58:46.255Z</updated>
+    <updated>2023-05-04T05:57:00.536Z</updated>
     
     <content type="html"><![CDATA[<p><strong>稿定PS</strong>是一个在线的图像处理平台，可以帮助用户快速、方便地进行图像编辑和设计。它提供了丰富的工具和功能，包括基本的剪裁、旋转、缩放、调整亮度、对比度、饱和度等颜色调整功能，以及复杂的图层操作、滤镜和磨皮模糊等高级功能。用户可以使用这些工具和功能来自由地编辑、设计、美化和优化图像。</p><span id="more"></span><blockquote><p>传送门：<a href="https://ps.gaoding.com/">https://ps.gaoding.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/gaodingps.png" alt="" /></p><p>此外，稿定PS还提供了丰富的模板库和素材库，包括海报、名片、众筹海报、营销广告、社交媒体封面等各种类型的模板和素材，用户可以根据自己的需求进行选择和使用。用户可以免费使用稿定PS进行编辑和设计，也可以选择付费解锁更多高级功能和素材库。总之，稿定PS是一个完全在线的、易于使用和功能丰富的图像处理平台，适合各种用户进行图像编辑和设计。</p><p><img src="https://pic.webrelay.cn/img/gaodingps1.png" alt="" /></p>]]></content>
     
@@ -436,11 +504,13 @@
     
     <category term="免费" scheme="https://webrelay.cn/tags/%E5%85%8D%E8%B4%B9/"/>
     
+    <category term="图片" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87/"/>
+    
     <category term="设计" scheme="https://webrelay.cn/tags/%E8%AE%BE%E8%AE%A1/"/>
     
     <category term="PS" scheme="https://webrelay.cn/tags/PS/"/>
     
-    <category term="图片处理" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+    <category term="办公" scheme="https://webrelay.cn/tags/%E5%8A%9E%E5%85%AC/"/>
     
   </entry>
   
@@ -449,7 +519,7 @@
     <link href="https://webrelay.cn/2023/magiceraser/"/>
     <id>https://webrelay.cn/2023/magiceraser/</id>
     <published>2023-04-12T14:28:52.000Z</published>
-    <updated>2023-05-02T16:07:08.250Z</updated>
+    <updated>2023-05-04T05:56:56.068Z</updated>
     
     <content type="html"><![CDATA[<p><strong>Magic Eraser</strong> 是一个基于人工智能技术的在线图像去背景工具。网站无需注册，它可以自动分离图片的前景和背景，让用户轻松地将前景从背景中分离出来。Magic Eraser可以应用于各种场景，例如在产品展示中去除非白色背景、制作海报和广告中的复合图像等。</p><span id="more"></span><blockquote><p>传送门：<a href="https://magicstudio.com/zh/magiceraser">https://magicstudio.com/zh/magiceraser</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/magiceraser.png" alt="" /></p><p>使用Magic Eraser非常简单，只需上传一张需要去除背景的图片，然后点击“Erase”按钮，Magic Eraser就会自动分离前景和背景。分离完成后，用户可以选择保存分离后的前景图像，或者将前景图像与其他背景进行复合。Magic Eraser 还提供了一些高级功能，比如可以对分离后的前景进行调整，提高图像质量等。</p><p>Magic Eraser的基本功能是免费的，但用户也可以选择订阅付费服务，以获取更高级的功能和更高的图像处理质量。</p><p>总之，Magic Eraser 是一款方便易用的在线图像处理工具，可以帮助用户快速去除背景，实现高质量的图像处理。</p><ul><li>示例：</li></ul><p><img src="https://pic.webrelay.cn/img/magiceraser1.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/magiceraser2.png" alt="" /></p>]]></content>
     
@@ -461,7 +531,7 @@
     <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="图片处理" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87%E5%A4%84%E7%90%86/"/>
+    <category term="图片" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87/"/>
     
     <category term="✈️" scheme="https://webrelay.cn/tags/%E2%9C%88%EF%B8%8F/"/>
     
@@ -474,7 +544,7 @@
     <link href="https://webrelay.cn/2023/pintuxia/"/>
     <id>https://webrelay.cn/2023/pintuxia/</id>
     <published>2023-04-12T13:06:39.000Z</published>
-    <updated>2023-05-03T03:58:53.412Z</updated>
+    <updated>2023-05-04T05:58:02.986Z</updated>
     
     <content type="html"><![CDATA[<p><strong>拼图侠</strong>是一个在线生成拼图的网站。您可以在该网站上免费制作拼图，打乱拼图，显示原图，分享地址等。</p><span id="more"></span><blockquote><p>传送门：<a href="http://pintuxia.com/">http://pintuxia.com/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/pintuxia.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/pintuxia1.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/pintuxia2.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/pintuxia3.png" alt="" /></p><p>我选了一张比较难的图，也是我的壁纸，选的一百多片，花了将近一个小时才拼好。仿佛回到了童年，又认真又开心。唯一比较可惜的就是国内无法访问，需要一定门槛。</p><p>下面是原图：</p><p><img src="https://pic.webrelay.cn/img/wallhaven-vmk7em.jpg" alt="" /></p>]]></content>
     
@@ -488,59 +558,11 @@
     
     <category term="益智" scheme="https://webrelay.cn/tags/%E7%9B%8A%E6%99%BA/"/>
     
+    <category term="图片" scheme="https://webrelay.cn/tags/%E5%9B%BE%E7%89%87/"/>
+    
     <category term="✈️" scheme="https://webrelay.cn/tags/%E2%9C%88%EF%B8%8F/"/>
     
     <category term="拼图" scheme="https://webrelay.cn/tags/%E6%8B%BC%E5%9B%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>词影 - 中文Worlde游戏</title>
-    <link href="https://webrelay.cn/2023/ciying/"/>
-    <id>https://webrelay.cn/2023/ciying/</id>
-    <published>2023-04-09T13:23:35.000Z</published>
-    <updated>2023-05-03T03:58:58.534Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>词影</strong>跟之前推荐的汉兜（Handle）玩法类似，不过汉兜是通过拼音猜成语，而词影是一款将象形汉字与Wordle猜测结合起来的猜成语小游戏。欢迎大家试玩。</p><span id="more"></span><blockquote><p>传送门：<a href="https://cy.surprising.studio/">https://cy.surprising.studio/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/ciying.png" alt="" /></p><ul><li>教程：</li></ul><p><img src="https://pic.webrelay.cn/img/ciying1.png" alt="" /></p><p>不要被教程劝退，一看就废，一玩就会！</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;词影&lt;/strong&gt;跟之前推荐的汉兜（Handle）玩法类似，不过汉兜是通过拼音猜成语，而词影是一款将象形汉字与Wordle猜测结合起来的猜成语小游戏。欢迎大家试玩。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="在线游戏" scheme="https://webrelay.cn/categories/%E5%9C%A8%E7%BA%BF%E6%B8%B8%E6%88%8F/"/>
-    
-    
-    <category term="益智" scheme="https://webrelay.cn/tags/%E7%9B%8A%E6%99%BA/"/>
-    
-    <category term="知识" scheme="https://webrelay.cn/tags/%E7%9F%A5%E8%AF%86/"/>
-    
-    <category term="成语" scheme="https://webrelay.cn/tags/%E6%88%90%E8%AF%AD/"/>
-    
-    <category term="汉字" scheme="https://webrelay.cn/tags/%E6%B1%89%E5%AD%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Speedtest - 测速网</title>
-    <link href="https://webrelay.cn/2023/speedtest/"/>
-    <id>https://webrelay.cn/2023/speedtest/</id>
-    <published>2023-04-09T13:14:53.000Z</published>
-    <updated>2023-05-02T13:28:31.541Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>Speedtest</strong> 是一个专业的测速网站，它提供了网速测试、网络质量测试、宽带测速、Wi-Fi测速、5G测速、IPv6测速、带宽检测、路由器测速、网关测速、宽带提速、宽带升级、网络加速、内网测速、专网测速、视频测试、游戏测速和直播测速等服务¹。您可以在Speedtest.cn上进行各种类型的网络测试。</p><span id="more"></span><blockquote><p>传送门：<a href="https://www.speedtest.cn/">https://www.speedtest.cn/</a></p></blockquote><p><img src="https://pic.webrelay.cn/img/speedtest.png" alt="" /></p><p><img src="https://pic.webrelay.cn/img/speedtest1.png" alt="" /></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;strong&gt;Speedtest&lt;/strong&gt; 是一个专业的测速网站，它提供了网速测试、网络质量测试、宽带测速、Wi-Fi测速、5G测速、IPv6测速、带宽检测、路由器测速、网关测速、宽带提速、宽带升级、网络加速、内网测速、专网测速、视频测试、游戏测速和直播测速等服务¹。您可以在Speedtest.cn上进行各种类型的网络测试。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="实用网站" scheme="https://webrelay.cn/categories/%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99/"/>
-    
-    
-    <category term="网络" scheme="https://webrelay.cn/tags/%E7%BD%91%E7%BB%9C/"/>
-    
-    <category term="测试" scheme="https://webrelay.cn/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
