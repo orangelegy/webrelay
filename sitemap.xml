@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://webrelay.cn/2023/pod-link/</loc>
+    
+    <lastmod>2023-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/2023/btsj/</loc>
+    
+    <lastmod>2023-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://webrelay.cn/2023/naotu/</loc>
     
     <lastmod>2023-05-06</lastmod>
@@ -1134,6 +1152,41 @@
   
   <url>
     <loc>https://webrelay.cn/tags/%E5%9B%BE%E4%B9%A6/</loc>
+    <lastmod>2023-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2023-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/tags/%E7%94%B5%E8%A7%86%E5%89%A7/</loc>
+    <lastmod>2023-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/tags/%E7%BD%91%E5%89%A7/</loc>
+    <lastmod>2023-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/tags/%E6%92%AD%E5%AE%A2/</loc>
+    <lastmod>2023-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://webrelay.cn/tags/%E7%94%B5%E5%8F%B0/</loc>
     <lastmod>2023-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
