@@ -5,6 +5,13 @@
     <meta charset="utf-8" />
     <meta name="baidu-site-verification" content="codeva-aA6mChKSRX" />
     <link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css" />
+    <script type="module">
+        import { commentCount } from 'https://unpkg.com/@waline/client@v2/dist/comment.mjs';
+        commentCount({
+          serverURL: 'https://waline.webrelay.cn',
+          path: '{{ .permalink }}'
+        });
+      </script>
     
 
         
@@ -218,14 +225,20 @@ var _hmt = _hmt || [];
         <span style="background-image:url(https://pic.webrelay.cn/img/webtor.png)" alt="Webtor - 种子在线播放和下载 ✈️" class="thumbnail-image"></span>
     
     
-        
+        <!-- 
 <span class="comment-counter">
     <i class="fa fa-comments-o"></i>
     
         <span><a href="https://webrelay.cn/2023/webtor/#isso-thread"></a></span>
     
+    <span class="waline-comment-count" data-path="/guide/client/count.html" />
 </span>
+ -->
 
+<span class="comment-counter">
+    <i class="fa fa-comments-o"></i>
+    <span class="waline-comment-count" data-path="/guide/client/count.html"></span>
+</span>
 
 
     

@@ -5,6 +5,13 @@
     <meta charset="utf-8" />
     <meta name="baidu-site-verification" content="codeva-aA6mChKSRX" />
     <link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css" />
+    <script type="module">
+        import { commentCount } from 'https://unpkg.com/@waline/client@v2/dist/comment.mjs';
+        commentCount({
+          serverURL: 'https://waline.webrelay.cn',
+          path: '{{ .permalink }}'
+        });
+      </script>
     
 
         
@@ -285,7 +292,7 @@ var _hmt = _hmt || [];
 
 
 
-    <a data-url="https://webrelay.cn/2023/daedalos/" data-id="clhdfsqlj000ngss5fn9kf9ea" class="article-share-link"><i class="fa fa-share"></i>分享到</a>
+    <a data-url="https://webrelay.cn/2023/daedalos/" data-id="clhdj7jmh000tdss5ca8c46q3" class="article-share-link"><i class="fa fa-share"></i>分享到</a>
 <script>
     (function ($) {
         $('body').on('click', function() {

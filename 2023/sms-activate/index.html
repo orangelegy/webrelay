@@ -5,6 +5,13 @@
     <meta charset="utf-8" />
     <meta name="baidu-site-verification" content="codeva-aA6mChKSRX" />
     <link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css" />
+    <script type="module">
+        import { commentCount } from 'https://unpkg.com/@waline/client@v2/dist/comment.mjs';
+        commentCount({
+          serverURL: 'https://waline.webrelay.cn',
+          path: '{{ .permalink }}'
+        });
+      </script>
     
 
         
@@ -279,7 +286,7 @@ var _hmt = _hmt || [];
 
 
 
-    <a data-url="https://webrelay.cn/2023/sms-activate/" data-id="clhdfsqm2002pgss59o3whyef" class="article-share-link"><i class="fa fa-share"></i>分享到</a>
+    <a data-url="https://webrelay.cn/2023/sms-activate/" data-id="clhdj7jmx002pdss5b58237j4" class="article-share-link"><i class="fa fa-share"></i>分享到</a>
 <script>
     (function ($) {
         $('body').on('click', function() {
